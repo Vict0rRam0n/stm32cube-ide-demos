@@ -1,0 +1,8 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32N6-GettingStarted-ObjectDetection/Application/STM32N6570-DK/Src/app_camerapipeline.c:114:6:CameraPipeline_Init	88	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32N6-GettingStarted-ObjectDetection/Application/STM32N6570-DK/Src/app_camerapipeline.c:130:6:CameraPipeline_DeInit	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32N6-GettingStarted-ObjectDetection/Application/STM32N6570-DK/Src/app_camerapipeline.c:137:6:CameraPipeline_DisplayPipe_Start	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32N6-GettingStarted-ObjectDetection/Application/STM32N6570-DK/Src/app_camerapipeline.c:144:6:CameraPipeline_NNPipe_Start	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32N6-GettingStarted-ObjectDetection/Application/STM32N6570-DK/Src/app_camerapipeline.c:152:6:CameraPipeline_DisplayPipe_Stop	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32N6-GettingStarted-ObjectDetection/Application/STM32N6570-DK/Src/app_camerapipeline.c:159:6:CameraPipeline_IspUpdate	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32N6-GettingStarted-ObjectDetection/Application/STM32N6570-DK/Src/app_camerapipeline.c:171:5:CMW_CAMERA_PIPE_FrameEventCallback	0	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32N6-GettingStarted-ObjectDetection/Application/STM32N6570-DK/Src/app_camerapipeline.c:182:6:CMW_CAMERA_PIPE_ErrorCallback	0	static
