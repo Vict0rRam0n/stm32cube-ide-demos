@@ -1,0 +1,10 @@
+10:22:58 **** Build of configuration Debug for project DET_ToFLASH ****
+make -j8 all 
+arm-none-eabi-size  DET_ToFLASH.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13872	      0	   1780	  15652	   3d24	DET_ToFLASH.elf
+Finished building: default.size.stdout
+ 
+
+10:22:58 Build Finished. 0 errors, 0 warnings. (took 616ms)
+

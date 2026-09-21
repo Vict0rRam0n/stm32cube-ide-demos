@@ -1,0 +1,74 @@
+09:59:51 **** Incremental Build of configuration Debug for project STM32N6_XIP_Appli ****
+make -j8 all 
+arm-none-eabi-size  STM32N6_XIP_Appli.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4480	     12	   2612	   7104	   1bc0	STM32N6_XIP_Appli.elf
+Finished building: default.size.stdout
+ 
+cd "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_XIP/STM32CubeIDE/Appli/Debug"
+echo y | "C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_SigningTool_CLI.exe" -bin "STM32N6_XIP_Appli.bin" -nk -of 0x80000000 -t fsbl -o "STM32N6_XIP_Appli-Trusted.bin" -hv 2.3 -dump "STM32N6_XIP_Appli-Trusted.bin" -align
+      -------------------------------------------------------------------
+                          STM32 Signing Tool v2.22.0                   
+      -------------------------------------------------------------------
+
+Do you want to replace this file: STM32N6_XIP_Appli-Trusted.bin ? (y/n)
+[Header v2.3] Align the payload to the 0x400 offset by adding padding bytes at the beginning of the payload.
+Adding head padding bytes for payload with header v2.3
+Header version 2.3 preparation... 
+Extracting Entry point value from the input file...
+Entry point value : 0x70100909
+The headred image file generated successfully: STM32N6_XIP_Appli-Trusted.bin
+
+Header description:
+
+    Magic: 0x53544d32
+    Signature: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+               00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+               00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+    Checksum: 0x66054
+    Header version: 0x20300
+    Size: 0x1360
+    Load address: 0xffffffff
+    Entry point: 0x70100909
+    Image version: 0x0
+    Extension: 0x80000000
+
+Pad header detected:
+    Type: 0x5354ffff
+    Size: 0x1a0
+    Padding values: 89 2c 18 3d 74 db e7 22 9b 72 94 48 e7 07 0f af b2 cf cc ea 1c 1a da 1e 2d 5d 0c 4a 28 de 70 
+
+                    da 4e 69 19 ae bb 03 f1 ec 8b 25 01 e9 b2 45 ef 1b 81 c9 a9 85 5e 27 be 78 00 b1 c7 a9 52 e6 
+
+                    ec 89 f6 e3 ac 2b ec 21 59 6f 06 f7 6c aa 8b 34 d4 2d 6d 21 9b 9f 27 3e 46 46 06 a5 ae f7 3c 
+
+                    cd 88 cf 1a 15 dc 53 c7 b2 fc e8 4e 9c e3 24 bb 25 65 d8 8c f5 a7 99 83 aa b6 a0 7f da ca 69 
+
+                    76 ae 2c e5 0b df 4d 16 71 a7 0d 11 0e 0f c6 43 93 14 c2 eb a3 c5 75 0c 6b 1e 36 77 35 16 85 
+
+                    20 da 99 e7 2a 5b b1 12 db 9e ca aa 12 c4 52 db 17 e3 f3 b9 6e 8c ac 5e 74 38 4b 47 eb cf b1 
+
+                    f2 be d7 62 ec dc 04 cd 00 9a c6 01 d8 4b 92 31 8d 57 52 a2 48 aa 14 cc 23 ef 71 fc bc 02 d0 
+
+                    11 a4 06 52 d7 01 c4 7a 36 88 b6 ea 0e 01 5b 9b 37 da 68 62 3e 19 91 68 2a 80 2c cd 11 0a d4 
+
+                    91 1e 24 49 26 49 32 67 28 52 ff d8 14 6c f4 0f ff 19 22 df cc b5 32 ff 64 00 8d c6 cc 8f 22 
+
+                    0f 54 a0 d5 b2 26 c9 4b bb 7e 8c 0e 94 8d 8c 0d 12 71 74 74 ff ba ea 47 6a 14 fb 74 da 3a 01 
+
+                    c8 7c 39 bb 06 d3 ab d6 61 d6 6b 59 68 1b 75 09 e7 a6 60 42 2b 58 1b d0 4e 54 b7 49 f9 b7 dc 
+
+                    8e 6f 8a df aa 54 bf f1 93 eb 88 93 e4 dc 91 2c 70 33 56 6d ee 03 77 1b b0 b7 1d 02 ba 26 be 
+
+                    2c 72 94 03 ea c0 cb a5 
+
+Post header 2.3 information :
+    Binary type: 0x10
+    Non authenticated payload length: 0x0
+    Non authenticated payload hash: 0x0
+
+
+ 
+
+09:59:54 Build Finished. 0 errors, 0 warnings. (took 3s.395ms)
+

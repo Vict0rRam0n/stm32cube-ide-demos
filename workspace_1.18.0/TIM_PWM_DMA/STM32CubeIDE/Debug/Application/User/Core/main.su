@@ -1,0 +1,6 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/TIM_PWM_DMA/Core/Src/main.c:68:5:main	32	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/TIM_PWM_DMA/Core/Src/main.c:125:6:SystemClock_Config	96	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/TIM_PWM_DMA/Core/Src/main.c:172:13:MX_TIM1_Init	120	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/TIM_PWM_DMA/Core/Src/main.c:252:13:MX_DMA_Init	16	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/TIM_PWM_DMA/Core/Src/main.c:270:13:MX_GPIO_Init	48	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/TIM_PWM_DMA/Core/Src/main.c:319:6:Error_Handler	8	static,ignoring_inline_asm

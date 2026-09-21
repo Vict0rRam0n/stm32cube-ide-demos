@@ -1,0 +1,46 @@
+/* USER CODE BEGIN Header */
+/**
+  ******************************************************************************
+  * File Name          : linked_list.h
+  * Description        : This file provides code for the configuration
+  *                      of the LinkedList.
+  ******************************************************************************
+  * @attention
+  *
+  * Copyright (c) 2026 STMicroelectronics.
+  * All rights reserved.
+  *
+  * This software is licensed under terms that can be found in the LICENSE file
+  * in the root directory of this software component.
+  * If no LICENSE file comes with this software, it is provided AS-IS.
+  *
+  ******************************************************************************
+  */
+/* USER CODE END Header */
+
+/* Define to prevent recursive inclusion -------------------------------------*/
+#ifndef LINKED_LIST_H
+#define LINKED_LIST_H
+
+#ifdef __cplusplus
+ extern "C" {
+#endif
+
+/* Includes ------------------------------------------------------------------*/
+#include "main.h"
+
+/* Exported types ------------------------------------------------------------*/
+#define TOTAL_TRANSFER_BYTES   24U
+#define DMA_CHUNK_BYTES         8U
+#define DMA_NODE_COUNT          3U
+
+/* Exported constants --------------------------------------------------------*/
+HAL_StatusTypeDef MX_RX_Queue_Config(void);
+HAL_StatusTypeDef MX_TX_Queue_Config(void);
+
+#ifdef __cplusplus
+}
+#endif
+
+#endif /* LINKED_LIST_H */
+

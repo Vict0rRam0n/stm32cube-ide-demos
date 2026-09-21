@@ -1,0 +1,10 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_spi.c:484:16:ADV_LPBAM_SPI_Tx_SetConfigQ	22
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_spi.c:753:16:ADV_LPBAM_SPI_Tx_SetDataQ	20
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_spi.c:985:16:ADV_LPBAM_SPI_Tx_SetFullQ	32
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_spi.c:1356:16:ADV_LPBAM_SPI_Rx_SetConfigQ	22
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_spi.c:1625:16:ADV_LPBAM_SPI_Rx_SetDataQ	20
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_spi.c:1857:16:ADV_LPBAM_SPI_Rx_SetFullQ	32
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_spi.c:2228:16:ADV_LPBAM_SPI_TxRx_SetConfigQ	22
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_spi.c:2501:16:ADV_LPBAM_SPI_TxRx_SetDataQ	23
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_spi.c:2769:16:ADV_LPBAM_SPI_TxRx_SetFullQ	35
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_spi.c:3163:16:ADV_LPBAM_SPI_EnableDMARequests	1

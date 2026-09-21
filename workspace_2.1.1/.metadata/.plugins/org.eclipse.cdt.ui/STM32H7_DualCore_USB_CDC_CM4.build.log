@@ -1,0 +1,10 @@
+15:01:25 **** Incremental Build of configuration Debug for project STM32H7_DualCore_USB_CDC_CM4 ****
+make -j8 all 
+arm-none-eabi-size  STM32H7_DualCore_USB_CDC_CM4.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3176	     16	   1568	   4760	   1298	STM32H7_DualCore_USB_CDC_CM4.elf
+Finished building: default.size.stdout
+ 
+
+15:01:25 Build Finished. 0 errors, 0 warnings. (took 575ms)
+

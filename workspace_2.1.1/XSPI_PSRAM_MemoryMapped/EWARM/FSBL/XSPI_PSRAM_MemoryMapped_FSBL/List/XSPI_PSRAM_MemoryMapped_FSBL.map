@@ -1,0 +1,840 @@
+###############################################################################
+#
+# IAR ELF Linker V9.70.1.475/W64 for ARM                  09/Apr/2026  10:01:14
+# Copyright 2007-2025 IAR Systems AB.
+#
+#    Output file                  =
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Exe\XSPI_PSRAM_MemoryMapped_FSBL.out
+#    Map file                     =
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\List\XSPI_PSRAM_MemoryMapped_FSBL.map
+#    Import CMSE library file out =
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Exe\XSPI_PSRAM_MemoryMapped_FSBL_import_lib.o
+#    Command line                 =
+#        -f
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Exe\XSPI_PSRAM_MemoryMapped_FSBL.out.rsp
+#        (C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\FSBL_6700618725638365656.dir\main.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\EWARM_18443280873093131863.dir\startup_stm32n657xx_fsbl.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6570-DK_16682434716720697534.dir\stm32n6570_discovery.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal_cortex.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal_dma.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal_dma_ex.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal_exti.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal_gpio.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\FSBL_6700618725638365656.dir\stm32n6xx_hal_msp.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal_pwr.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal_pwr_ex.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal_rcc.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal_rcc_ex.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir\stm32n6xx_hal_xspi.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\FSBL_6700618725638365656.dir\stm32n6xx_it.o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\CMSIS_6603591812247902717.dir\system_stm32n6xx_fsbl.o
+#        --cpu=Cortex-M55 --fpu=VFPv5_d16 --redirect _Printf=_PrintfFullNoMb
+#        --redirect _Scanf=_ScanfFullNoMb --no_out_extension -o
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Exe\XSPI_PSRAM_MemoryMapped_FSBL.out
+#        --map
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\List\XSPI_PSRAM_MemoryMapped_FSBL.map
+#        --config
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL/stm32n657xx_axisram2_fsbl.icf
+#        --semihosting --entry __iar_program_start --vfe --text_out locale
+#        --import_cmse_lib_out
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Exe\XSPI_PSRAM_MemoryMapped_FSBL_import_lib.o)
+#        --diagnostics_format=sarif_stdout --dependencies=n
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Exe\XSPI_PSRAM_MemoryMapped_FSBL.out.iar_deps
+#        --dynamic_output
+#        C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Exe\XSPI_PSRAM_MemoryMapped_FSBL.out.iar_dynout
+#
+###############################################################################
+
+*******************************************************************************
+*** RUNTIME MODEL ATTRIBUTES
+***
+
+CppFlavor       = *
+__CPP_Runtime   = 1
+__SystemLibrary = DLib
+__dlib_version  = 6
+
+
+*******************************************************************************
+*** HEAP SELECTION
+***
+
+The basic heap was selected because --advanced_heap
+was not specified and the application did not appear to
+be primarily optimized for speed.
+
+
+*******************************************************************************
+*** PLACEMENT SUMMARY
+***
+
+"A0":  place at address 0x3418'0400 {  ro section .intvec };
+"P1":  place in [from 0x3418'0400 to 0x341b'ffff] {  ro };
+define block CSTACK with size = 2K, alignment = 8 { };
+define block HEAP with size = 512, alignment = 8 { };
+"P2":  place in [from 0x341c'0000 to 0x341f'ffff] {
+           rw,  section .noncacheable,  block CSTACK,  block HEAP };
+initialize by copy {  rw };
+
+No sections matched the following patterns:
+
+  section .noncacheable  in "P2"
+
+
+  Section            Kind         Address  Alignment    Size  Object
+  -------            ----         -------  ---------    ----  ------
+"A0":                                                  0x34c
+  .intvec            ro code  0x3418'0400          4   0x34c  startup_stm32n657xx_fsbl.o [2]
+                            - 0x3418'074c              0x34c
+
+"P1":                                                 0x3fbc
+  .text              ro code  0x3418'074c          4  0x158c  stm32n6xx_hal_rcc_ex.o [5]
+  .text              ro code  0x3418'1cd8          4     0xc  stm32n6xx_hal.o [5]
+  .text              ro code  0x3418'1ce4          4   0xd1c  stm32n6xx_hal_rcc.o [5]
+  .text              ro code  0x3418'2a00          4    0x44  stm32n6xx_hal.o [5]
+  .text              ro code  0x3418'2a44          4    0xb0  stm32n6xx_hal_cortex.o [5]
+  .text              ro code  0x3418'2af4          4   0x8b8  stm32n6xx_hal_xspi.o [5]
+  .text              ro code  0x3418'33ac          4    0xec  stm32n6xx_hal_msp.o [3]
+  .text              ro code  0x3418'3498          4    0x9c  stm32n6xx_hal_dma.o [5]
+  .text              ro code  0x3418'3534          4    0x12  ABImemset_small.o [8]
+  .text              ro code  0x3418'3546          2    0x2a  copy_init3.o [8]
+  .text              ro code  0x3418'3570          4    0xdc  stm32n6xx_hal_pwr_ex.o [5]
+  .text              ro code  0x3418'364c          4   0x4c6  main.o [3]
+  .text              ro code  0x3418'3b14          4   0x24c  stm32n6xx_hal_gpio.o [5]
+  .text              ro code  0x3418'3d60          4    0x20  stm32n6xx_hal.o [5]
+  .text              ro code  0x3418'3d80          4    0xe8  stm32n6570_discovery.o [4]
+  .text              ro code  0x3418'3e68          4    0x28  stm32n6xx_hal.o [5]
+  .text              ro code  0x3418'3e90          4   0x3f0  system_stm32n6xx_fsbl.o [1]
+  .text              ro code  0x3418'4280          2    0x38  zero_init3.o [8]
+  .text              ro code  0x3418'42b8          4    0x28  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'42e0          4    0x28  data_init.o [8]
+  .text              ro code  0x3418'4308          4    0x22  fpinit_M.o [7]
+  .text              ro code  0x3418'432c          4    0x22  cmain.o [8]
+  .text              ro code  0x3418'434e          2     0x4  low_level_init.o [6]
+  .text              ro code  0x3418'4352          2     0x4  exit.o [6]
+  .text              ro code  0x3418'4358          4     0x4  cexit.o [8]
+  .text              ro code  0x3418'435c          4     0xa  cexit_2.o [8]
+  .text              ro code  0x3418'4368          4    0x14  exit.o [9]
+  .iar.init_table    const    0x3418'437c          4    0x24  - Linker created -
+  .text              ro code  0x3418'43a0          4    0x1e  cstartup_M.o [8]
+  .text              ro code  0x3418'43be          2    0x16  stm32n6xx_it.o [3]
+  .text              ro code  0x3418'43d4          4    0x10  stm32n6xx_hal.o [5]
+  Initializer bytes  const    0x3418'43e4          4    0x10  <for P2-1>
+  .rodata            const    0x3418'43f4          4     0x8  stm32n6570_discovery.o [4]
+  Veneer$$CMSE                0x3418'4400         32    0x20  <Block>
+    Veneer$$CMSE     ro code  0x3418'4400          2     0x8  system_stm32n6xx_fsbl.o [1]
+  .text              ro code  0x3418'4420          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4424          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4428          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'442c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4430          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4434          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4438          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'443c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4440          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4444          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4448          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'444c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4450          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4454          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4458          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'445c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4460          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4464          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4468          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'446c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4470          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4474          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4478          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'447c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4480          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4484          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4488          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'448c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4490          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4494          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4498          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'449c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44a0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44a4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44a8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44ac          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44b0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44b4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44b8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44bc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44c0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44c4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44c8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44cc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44d0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44d4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44d8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44dc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44e0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44e4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44e8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44ec          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44f0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44f4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44f8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'44fc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4500          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4504          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4508          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'450c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4510          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4514          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4518          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'451c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4520          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4524          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4528          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'452c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4530          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4534          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4538          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'453c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4540          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4544          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4548          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'454c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4550          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4554          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4558          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'455c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4560          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4564          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4568          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'456c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4570          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4574          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4578          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'457c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4580          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4584          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4588          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'458c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4590          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4594          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4598          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'459c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45a0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45a4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45a8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45ac          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45b0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45b4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45b8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45bc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45c0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45c4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45c8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45cc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45d0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45d4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45d8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45dc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45e0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45e4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45e8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45ec          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45f0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45f4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45f8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'45fc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4600          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4604          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4608          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'460c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4610          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4614          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4618          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'461c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4620          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4624          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4628          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'462c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4630          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4634          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4638          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'463c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4640          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4644          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4648          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'464c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4650          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4654          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4658          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'465c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4660          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4664          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4668          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'466c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4670          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4674          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4678          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'467c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4680          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4684          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4688          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'468c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4690          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4694          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4698          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'469c          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46a0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46a4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46a8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46ac          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46b0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46b4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46b8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46bc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46c0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46c4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46c8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46cc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46d0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46d4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46d8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46dc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46e0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46e4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46e8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46ec          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46f0          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46f4          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46f8          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'46fc          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4700          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .text              ro code  0x3418'4704          2     0x4  startup_stm32n657xx_fsbl.o [2]
+  .rodata            const    0x3418'4708                0x0  zero_init3.o [8]
+  .rodata            const    0x3418'4708                0x0  copy_init3.o [8]
+                            - 0x3418'4708             0x3fbc
+
+"P2", part 1 of 3:                                      0x10
+  P2-1                        0x341c'0000          4    0x10  <Init block>
+    .data            inited   0x341c'0000          4     0xc  stm32n6xx_hal.o [5]
+    .data            inited   0x341c'000c          4     0x4  system_stm32n6xx_fsbl.o [1]
+                            - 0x341c'0010               0x10
+
+"P2", part 2 of 3:                                    0x2878
+  .bss               zero     0x341c'0010          4  0x2878  main.o [3]
+                            - 0x341c'2888             0x2878
+
+"P2", part 3 of 3:                                     0x800
+  CSTACK                      0x341c'2888          8   0x800  <Block>
+    CSTACK           uninit   0x341c'2888              0x800  <Block tail>
+                            - 0x341c'3088              0x800
+
+Unused ranges:
+
+         From           To      Size
+         ----           --      ----
+  0x3418'4708  0x341b'ffff  0x3'b8f8
+  0x341c'3088  0x341f'ffff  0x3'cf78
+
+
+*******************************************************************************
+*** INIT TABLE
+***
+
+          Address      Size
+          -------      ----
+Zero (__iar_zero_init3)
+    1 destination range, total size 0x2878:
+          0x341c'0010  0x2878
+
+Copy (__iar_copy_init3)
+    1 source range, total size 0x10:
+          0x3418'43e4    0x10
+    1 destination range, total size 0x10:
+          0x341c'0000    0x10
+
+
+
+*******************************************************************************
+*** MODULE SUMMARY
+***
+
+    Module                      ro code  ro data  rw data
+    ------                      -------  -------  -------
+command line/config:
+    -----------------------------------------------------
+    Total:
+
+C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\CMSIS_6603591812247902717.dir: [1]
+    system_stm32n6xx_fsbl.o       1'016        4        4
+    -----------------------------------------------------
+    Total:                        1'016        4        4
+
+C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\EWARM_18443280873093131863.dir: [2]
+    startup_stm32n657xx_fsbl.o    1'628
+    -----------------------------------------------------
+    Total:                        1'628
+
+C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\FSBL_6700618725638365656.dir: [3]
+    main.o                        1'222            10'360
+    stm32n6xx_hal_msp.o             236
+    stm32n6xx_it.o                   22
+    -----------------------------------------------------
+    Total:                        1'480            10'360
+
+C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6570-DK_16682434716720697534.dir: [4]
+    stm32n6570_discovery.o          232        8
+    -----------------------------------------------------
+    Total:                          232        8
+
+C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir: [5]
+    stm32n6xx_hal.o                 168       12       12
+    stm32n6xx_hal_cortex.o          176
+    stm32n6xx_hal_dma.o             156
+    stm32n6xx_hal_gpio.o            588
+    stm32n6xx_hal_pwr_ex.o          220
+    stm32n6xx_hal_rcc.o           3'356
+    stm32n6xx_hal_rcc_ex.o        5'516
+    stm32n6xx_hal_xspi.o          2'232
+    -----------------------------------------------------
+    Total:                       12'412       12       12
+
+dl7M_tln.a: [6]
+    exit.o                            4
+    low_level_init.o                  4
+    -----------------------------------------------------
+    Total:                            8
+
+m7M_tlv.a: [7]
+    fpinit_M.o                       34
+    -----------------------------------------------------
+    Total:                           34
+
+rt7M_tl.a: [8]
+    ABImemset_small.o                18
+    cexit.o                           4
+    cexit_2.o                        10
+    cmain.o                          34
+    copy_init3.o                     42
+    cstartup_M.o                     30
+    data_init.o                      40
+    zero_init3.o                     56
+    -----------------------------------------------------
+    Total:                          234
+
+shb_l.a: [9]
+    exit.o                           20
+    -----------------------------------------------------
+    Total:                           20
+
+    Gaps                              8                 4
+    Linker created                            36    2'048
+---------------------------------------------------------
+    Grand Total:                 17'072       60   12'428
+
+
+*******************************************************************************
+*** ENTRY LIST
+***
+
+Entry                       Address    Size  Type      Object
+-----                       -------    ----  ----      ------
+.iar.init_table$$Base   0x3418'437c           --   Gb  - Linker created -
+.iar.init_table$$Limit  0x3418'43a0           --   Gb  - Linker created -
+?main                   0x3418'432d          Code  Gb  cmain.o [8]
+ADC1_2_IRQHandler       0x3418'44c5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+ADF1_FLT0_IRQHandler    0x3418'4635          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+APS256_ReadReg          0x3418'3a73    0x42  Code  Gb  main.o [3]
+APS256_WriteReg         0x3418'3a2d    0x3c  Code  Gb  main.o [3]
+BKP_ECC_IRQHandler      0x3418'4439          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+BSP_LED_Init            0x3418'3d81    0x68  Code  Gb  stm32n6570_discovery.o [4]
+BSP_LED_Off             0x3418'3e05    0x1a  Code  Gb  stm32n6570_discovery.o [4]
+BSP_LED_On              0x3418'3de9    0x1c  Code  Gb  stm32n6570_discovery.o [4]
+BSP_LED_Toggle          0x3418'3e35    0x1c  Code  Gb  stm32n6570_discovery.o [4]
+BusFault_Handler        0x3418'43c5     0x2  Code  Gb  stm32n6xx_it.o [3]
+CACHEAXI_IRQHandler     0x3418'44e5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+CACHE_ECC_IRQHandler    0x3418'4431          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+CRYP_IRQHandler         0x3418'44a5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+CSI_IRQHandler          0x3418'44c9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+CSTACK$$Base            0x341c'2888           --   Gb  - Linker created -
+CSTACK$$Limit           0x341c'3088           --   Gb  - Linker created -
+CTI_INT0_IRQHandler     0x3418'46f9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+CTI_INT1_IRQHandler     0x3418'46fd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+DCMIPP_IRQHandler       0x3418'44cd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+DCMI_PSSI_IRQHandler    0x3418'46f1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+DMA2D_IRQHandler        0x3418'44f1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+DTS_IRQHandler          0x3418'4425          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+DebugMon_Handler        0x3418'43cd     0x2  Code  Gb  stm32n6xx_it.o [3]
+ETH1_IRQHandler         0x3418'46cd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI0_IRQHandler        0x3418'4461          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI10_IRQHandler       0x3418'4489          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI11_IRQHandler       0x3418'448d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI12_IRQHandler       0x3418'4491          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI13_IRQHandler       0x3418'4495          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI14_IRQHandler       0x3418'4499          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI15_IRQHandler       0x3418'449d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI1_IRQHandler        0x3418'4465          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI2_IRQHandler        0x3418'4469          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI3_IRQHandler        0x3418'446d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI4_IRQHandler        0x3418'4471          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI5_IRQHandler        0x3418'4475          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI6_IRQHandler        0x3418'4479          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI7_IRQHandler        0x3418'447d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI8_IRQHandler        0x3418'4481          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+EXTI9_IRQHandler        0x3418'4485          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+Error_Handler           0x3418'3af7    0x10  Code  Gb  main.o [3]
+FDCAN1_IT0_IRQHandler   0x3418'46d1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+FDCAN1_IT1_IRQHandler   0x3418'46d5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+FDCAN2_IT0_IRQHandler   0x3418'46d9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+FDCAN2_IT1_IRQHandler   0x3418'46dd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+FDCAN3_IT0_IRQHandler   0x3418'46e1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+FDCAN3_IT1_IRQHandler   0x3418'46e5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+FDCAN_CU_IRQHandler     0x3418'46e9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+FMC_IRQHandler          0x3418'46b5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+FPU_IRQHandler          0x3418'443d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GFXMMU_IRQHandler       0x3418'44fd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GFXTIM_IRQHandler       0x3418'4501          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel0_IRQHandler
+                        0x3418'4551          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel10_IRQHandler
+                        0x3418'4579          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel11_IRQHandler
+                        0x3418'457d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel12_IRQHandler
+                        0x3418'4581          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel13_IRQHandler
+                        0x3418'4585          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel14_IRQHandler
+                        0x3418'4589          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel15_IRQHandler
+                        0x3418'458d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel1_IRQHandler
+                        0x3418'4555          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel2_IRQHandler
+                        0x3418'4559          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel3_IRQHandler
+                        0x3418'455d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel4_IRQHandler
+                        0x3418'4561          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel5_IRQHandler
+                        0x3418'4565          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel6_IRQHandler
+                        0x3418'4569          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel7_IRQHandler
+                        0x3418'456d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel8_IRQHandler
+                        0x3418'4571          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPDMA1_Channel9_IRQHandler
+                        0x3418'4575          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPU2D_ER_IRQHandler     0x3418'4509          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+GPU2D_IRQHandler        0x3418'4505          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HAL_DMA_Abort           0x3418'3499    0x9c  Code  Gb  stm32n6xx_hal_dma.o [5]
+HAL_Delay               0x3418'3e69    0x28  Code  Wk  stm32n6xx_hal.o [5]
+HAL_GPIO_Init           0x3418'3b15   0x1ec  Code  Gb  stm32n6xx_hal_gpio.o [5]
+HAL_GPIO_TogglePin      0x3418'3d0b    0x10  Code  Gb  stm32n6xx_hal_gpio.o [5]
+HAL_GPIO_WritePin       0x3418'3d01     0xa  Code  Gb  stm32n6xx_hal_gpio.o [5]
+HAL_GetTick             0x3418'1cd9     0xc  Code  Wk  stm32n6xx_hal.o [5]
+HAL_IncTick             0x3418'43d5    0x10  Code  Wk  stm32n6xx_hal.o [5]
+HAL_Init                0x3418'3d61    0x20  Code  Gb  stm32n6xx_hal.o [5]
+HAL_InitTick            0x3418'2a01    0x44  Code  Wk  stm32n6xx_hal.o [5]
+HAL_MspInit             0x3418'33ad     0x4  Code  Gb  stm32n6xx_hal_msp.o [3]
+HAL_NVIC_SetPriority    0x3418'2a75    0x3a  Code  Gb  stm32n6xx_hal_cortex.o [5]
+HAL_NVIC_SetPriorityGrouping
+                        0x3418'2a61    0x14  Code  Gb  stm32n6xx_hal_cortex.o [5]
+HAL_PWREx_ConfigSupply  0x3418'3571    0x36  Code  Gb  stm32n6xx_hal_pwr_ex.o [5]
+HAL_PWREx_ConfigVddIORange
+                        0x3418'35d9    0x50  Code  Gb  stm32n6xx_hal_pwr_ex.o [5]
+HAL_PWREx_ControlVoltageScaling
+                        0x3418'35a7    0x32  Code  Gb  stm32n6xx_hal_pwr_ex.o [5]
+HAL_PWREx_EnableVddIO2  0x3418'3629     0x6  Code  Gb  stm32n6xx_hal_pwr_ex.o [5]
+HAL_RCCEx_GetPLL1CLKFreq
+                        0x3418'1a89    0x4a  Code  Gb  stm32n6xx_hal_rcc_ex.o [5]
+HAL_RCCEx_GetPLL2CLKFreq
+                        0x3418'1ad3    0x4a  Code  Gb  stm32n6xx_hal_rcc_ex.o [5]
+HAL_RCCEx_GetPLL3CLKFreq
+                        0x3418'1b1d    0x4a  Code  Gb  stm32n6xx_hal_rcc_ex.o [5]
+HAL_RCCEx_GetPLL4CLKFreq
+                        0x3418'1b8f    0x4c  Code  Gb  stm32n6xx_hal_rcc_ex.o [5]
+HAL_RCCEx_PeriphCLKConfig
+                        0x3418'07cd   0xf28  Code  Gb  stm32n6xx_hal_rcc_ex.o [5]
+HAL_RCC_ClockConfig     0x3418'22c9   0x280  Code  Gb  stm32n6xx_hal_rcc.o [5]
+HAL_RCC_GetClockConfig  0x3418'2631    0x8a  Code  Gb  stm32n6xx_hal_rcc.o [5]
+HAL_RCC_GetCpuClockFreq
+                        0x3418'2575    0x96  Code  Gb  stm32n6xx_hal_rcc.o [5]
+HAL_RCC_OscConfig       0x3418'1d4b   0x53a  Code  Gb  stm32n6xx_hal_rcc.o [5]
+HAL_SYSTICK_Config      0x3418'2ab1    0x28  Code  Gb  stm32n6xx_hal_cortex.o [5]
+HAL_XSPIM_Config        0x3418'2fd5   0x18c  Code  Gb  stm32n6xx_hal_xspi.o [5]
+HAL_XSPI_Abort          0x3418'2f05    0x94  Code  Gb  stm32n6xx_hal_xspi.o [5]
+HAL_XSPI_Command        0x3418'2c61    0x98  Code  Gb  stm32n6xx_hal_xspi.o [5]
+HAL_XSPI_Init           0x3418'2af5   0x16c  Code  Gb  stm32n6xx_hal_xspi.o [5]
+HAL_XSPI_MemoryMapped   0x3418'2e61    0x84  Code  Gb  stm32n6xx_hal_xspi.o [5]
+HAL_XSPI_MspInit        0x3418'33b1    0xb6  Code  Gb  stm32n6xx_hal_msp.o [3]
+HAL_XSPI_Receive        0x3418'2d8d    0xb4  Code  Gb  stm32n6xx_hal_xspi.o [5]
+HAL_XSPI_SetClockPrescaler
+                        0x3418'2fb7    0x1e  Code  Gb  stm32n6xx_hal_xspi.o [5]
+HAL_XSPI_Transmit       0x3418'2d0b    0x82  Code  Gb  stm32n6xx_hal_xspi.o [5]
+HASH_IRQHandler         0x3418'44ad          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel0_IRQHandler
+                        0x3418'4511          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel10_IRQHandler
+                        0x3418'4539          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel11_IRQHandler
+                        0x3418'453d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel12_IRQHandler
+                        0x3418'4541          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel13_IRQHandler
+                        0x3418'4545          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel14_IRQHandler
+                        0x3418'4549          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel15_IRQHandler
+                        0x3418'454d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel1_IRQHandler
+                        0x3418'4515          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel2_IRQHandler
+                        0x3418'4519          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel3_IRQHandler
+                        0x3418'451d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel4_IRQHandler
+                        0x3418'4521          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel5_IRQHandler
+                        0x3418'4525          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel6_IRQHandler
+                        0x3418'4529          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel7_IRQHandler
+                        0x3418'452d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel8_IRQHandler
+                        0x3418'4531          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HPDMA1_Channel9_IRQHandler
+                        0x3418'4535          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+HardFault_Handler       0x3418'43c1     0x2  Code  Gb  stm32n6xx_it.o [3]
+I2C1_ER_IRQHandler      0x3418'4595          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I2C1_EV_IRQHandler      0x3418'4591          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I2C2_ER_IRQHandler      0x3418'459d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I2C2_EV_IRQHandler      0x3418'4599          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I2C3_ER_IRQHandler      0x3418'45a5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I2C3_EV_IRQHandler      0x3418'45a1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I2C4_ER_IRQHandler      0x3418'45ad          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I2C4_EV_IRQHandler      0x3418'45a9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I3C1_ER_IRQHandler      0x3418'45b5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I3C1_EV_IRQHandler      0x3418'45b1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I3C2_ER_IRQHandler      0x3418'45bd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+I3C2_EV_IRQHandler      0x3418'45b9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+IAC_IRQHandler          0x3418'444d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+ICACHE_IRQHandler       0x3418'450d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+IWDG_IRQHandler         0x3418'4459          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+JPEG_IRQHandler         0x3418'44f5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LED_PIN                 0x3418'3e60     0x8  Data  Lc  stm32n6570_discovery.o [4]
+LED_PORT                0x3418'43f4     0x8  Data  Lc  stm32n6570_discovery.o [4]
+LL_RCC_HSE_IsReady      0x3418'1ce5     0xa  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_HSE_IsReady      0x3418'074d     0x8  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_HSI_GetDivider   0x3418'075d     0xa  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_HSI_IsReady      0x3418'1cef     0xa  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_HSI_IsReady      0x3418'0755     0x8  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_MSI_IsReady      0x3418'1cf9     0xa  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_MSI_IsReady      0x3418'0767     0x8  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_PLL1_IsEnabledBypass
+                        0x3418'1d0d     0x6  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_PLL1_IsReady     0x3418'1d03     0xa  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_PLL2_IsEnabledBypass
+                        0x3418'1d1d     0x4  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_PLL2_IsReady     0x3418'1d13     0xa  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_PLL3_IsEnabledBypass
+                        0x3418'1d35     0x6  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_PLL3_IsReady     0x3418'1d2b     0xa  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_PLL4_IsEnabledBypass
+                        0x3418'1d45     0x6  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_PLL4_IsReady     0x3418'1d3b     0xa  Code  Lc  stm32n6xx_hal_rcc.o [5]
+LL_RCC_SetClockSource   0x3418'076f    0x26  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_SetI2CClockSource
+                        0x3418'0795     0x2  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_SetI3CClockSource
+                        0x3418'0797     0x2  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_SetLPTIMClockSource
+                        0x3418'0799     0x2  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_SetOTGPHYCKREFClockSource
+                        0x3418'079d     0x2  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_SetOTGPHYClockSource
+                        0x3418'079b     0x2  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_SetSAIClockSource
+                        0x3418'079f     0x2  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_SetSDMMCClockSource
+                        0x3418'07a1     0x2  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_SetSPIClockSource
+                        0x3418'07a3     0x2  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_SetUSARTClockSource
+                        0x3418'07a5     0x2  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LL_RCC_SetXSPIClockSource
+                        0x3418'07a7     0x2  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+LOCKUP_IRQHandler       0x3418'442d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LPTIM1_IRQHandler       0x3418'4621          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LPTIM2_IRQHandler       0x3418'4625          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LPTIM3_IRQHandler       0x3418'4629          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LPTIM4_IRQHandler       0x3418'462d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LPTIM5_IRQHandler       0x3418'4631          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LPUART1_IRQHandler      0x3418'46a5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LTDC_LO_ERR_IRQHandler  0x3418'44ed          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LTDC_LO_IRQHandler      0x3418'44e9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LTDC_UP_ERR_IRQHandler  0x3418'4705          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+LTDC_UP_IRQHandler      0x3418'4701          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MCE1_IRQHandler         0x3418'44b5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MCE2_IRQHandler         0x3418'44b9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MCE3_IRQHandler         0x3418'44bd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MCE4_IRQHandler         0x3418'44c1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MDF1_FLT0_IRQHandler    0x3418'4639          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MDF1_FLT1_IRQHandler    0x3418'463d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MDF1_FLT2_IRQHandler    0x3418'4641          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MDF1_FLT3_IRQHandler    0x3418'4645          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MDF1_FLT4_IRQHandler    0x3418'4649          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MDF1_FLT5_IRQHandler    0x3418'464d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MDIOS_IRQHandler        0x3418'46ed          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+MemManage_Handler       0x3418'43c3     0x2  Code  Gb  stm32n6xx_it.o [3]
+NMI_Handler             0x3418'43bf     0x2  Code  Gb  stm32n6xx_it.o [3]
+NPU0_IRQHandler         0x3418'44d5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+NPU1_IRQHandler         0x3418'44d9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+NPU2_IRQHandler         0x3418'44dd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+NPU3_IRQHandler         0x3418'44e1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+PAHB_ERR_IRQHandler     0x3418'44d1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+PKA_IRQHandler          0x3418'44a9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+PVD_PVM_IRQHandler      0x3418'4421          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+PendSV_Handler          0x3418'43cf     0x2  Code  Gb  stm32n6xx_it.o [3]
+RCCEx_CalcPLLFreq       0x3418'1c31    0x4e  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+RCCEx_GetPLLSourceFreq  0x3418'1bdb    0x56  Code  Lc  stm32n6xx_hal_rcc_ex.o [5]
+RCC_IC_CheckPLLSources  0x3418'2921    0x9e  Code  Lc  stm32n6xx_hal_rcc.o [5]
+RCC_IRQHandler          0x3418'4429          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+RCC_PLL_Config          0x3418'26d1   0x180  Code  Lc  stm32n6xx_hal_rcc.o [5]
+RCC_PLL_Enable          0x3418'286d    0x34  Code  Lc  stm32n6xx_hal_rcc.o [5]
+RCC_PLL_IsNewConfig     0x3418'28a1    0x7c  Code  Lc  stm32n6xx_hal_rcc.o [5]
+RCC_S_IRQHandler        0x3418'4451          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+RIFSC_TAMPER_IRQHandler
+                        0x3418'4449          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+RNG_IRQHandler          0x3418'44b1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+RTC_IRQHandler          0x3418'4455          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+RTC_S_IRQHandler        0x3418'4441          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+Region$$Table$$Base     0x3418'437c           --   Gb  - Linker created -
+Region$$Table$$Limit    0x3418'43a0           --   Gb  - Linker created -
+Reset_Handler           0x3418'42b9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SAES_IRQHandler         0x3418'44a1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SAI1_A_IRQHandler       0x3418'4651          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SAI1_B_IRQHandler       0x3418'4655          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SAI2_A_IRQHandler       0x3418'4659          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SAI2_B_IRQHandler       0x3418'465d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SDMMC1_IRQHandler       0x3418'46b9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SDMMC2_IRQHandler       0x3418'46bd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SECURE_SystemCoreClockUpdate
+                        0x3418'4401    0x20  Code  Gb  system_stm32n6xx_fsbl.o [1]
+SPDIFRX1_IRQHandler     0x3418'4661          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SPI1_IRQHandler         0x3418'4665          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SPI2_IRQHandler         0x3418'4669          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SPI3_IRQHandler         0x3418'466d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SPI4_IRQHandler         0x3418'4671          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SPI5_IRQHandler         0x3418'4675          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SPI6_IRQHandler         0x3418'4679          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+SVC_Handler             0x3418'43cb     0x2  Code  Gb  stm32n6xx_it.o [3]
+SecureFault_Handler     0x3418'43c9     0x2  Code  Gb  stm32n6xx_it.o [3]
+SysTick_Handler         0x3418'43d1     0x4  Code  Gb  stm32n6xx_it.o [3]
+SystemClock_Config      0x3418'3941    0xec  Code  Gb  main.o [3]
+SystemCoreClock         0x341c'000c     0x4  Data  Gb  system_stm32n6xx_fsbl.o [1]
+SystemCoreClockUpdate   0x3418'3fb5   0x1da  Code  Gb  system_stm32n6xx_fsbl.o [1]
+SystemInit              0x3418'3e91   0x124  Code  Gb  system_stm32n6xx_fsbl.o [1]
+TAMP_IRQHandler         0x3418'4445          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TCM_ECC_IRQHandler      0x3418'4435          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM10_IRQHandler        0x3418'45fd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM11_IRQHandler        0x3418'4601          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM12_IRQHandler        0x3418'4605          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM13_IRQHandler        0x3418'4609          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM14_IRQHandler        0x3418'460d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM15_IRQHandler        0x3418'4611          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM16_IRQHandler        0x3418'4615          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM17_IRQHandler        0x3418'4619          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM18_IRQHandler        0x3418'461d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM1_BRK_IRQHandler     0x3418'45c1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM1_CC_IRQHandler      0x3418'45cd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM1_TRG_COM_IRQHandler
+                        0x3418'45c9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM1_UP_IRQHandler      0x3418'45c5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM2_IRQHandler         0x3418'45d1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM3_IRQHandler         0x3418'45d5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM4_IRQHandler         0x3418'45d9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM5_IRQHandler         0x3418'45dd          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM6_IRQHandler         0x3418'45e1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM7_IRQHandler         0x3418'45e5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM8_BRK_IRQHandler     0x3418'45e9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM8_CC_IRQHandler      0x3418'45f5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM8_TRG_COM_IRQHandler
+                        0x3418'45f1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM8_UP_IRQHandler      0x3418'45ed          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+TIM9_IRQHandler         0x3418'45f9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+UART4_IRQHandler        0x3418'4689          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+UART5_IRQHandler        0x3418'468d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+UART7_IRQHandler        0x3418'4695          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+UART8_IRQHandler        0x3418'4699          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+UART9_IRQHandler        0x3418'469d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+UCPD1_IRQHandler        0x3418'46c1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+USART10_IRQHandler      0x3418'46a1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+USART1_IRQHandler       0x3418'467d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+USART2_IRQHandler       0x3418'4681          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+USART3_IRQHandler       0x3418'4685          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+USART6_IRQHandler       0x3418'4691          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+USB1_OTG_HS_IRQHandler  0x3418'46c5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+USB2_OTG_HS_IRQHandler  0x3418'46c9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+UsageFault_Handler      0x3418'43c7     0x2  Code  Gb  stm32n6xx_it.o [3]
+VENC_IRQHandler         0x3418'44f9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+Veneer$$CMSE$$Base      0x3418'4400           --   Gb  - Linker created -
+Veneer$$CMSE$$Limit     0x3418'4420           --   Gb  - Linker created -
+WAKEUP_PIN_IRQHandler   0x3418'46f5          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+WWDG_IRQHandler         0x3418'445d          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+XSPI1_IRQHandler        0x3418'46a9          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+XSPI2_IRQHandler        0x3418'46ad          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+XSPI3_IRQHandler        0x3418'46b1          Code  Wk  startup_stm32n657xx_fsbl.o [2]
+XSPI_ConfigCmd          0x3418'31a9   0x1cc  Code  Lc  stm32n6xx_hal_xspi.o [5]
+XSPI_WaitFlagStateUntilTimeout
+                        0x3418'3161    0x48  Code  Lc  stm32n6xx_hal_xspi.o [5]
+__NVIC_SetPriority      0x3418'2a45    0x1c  Code  Lc  stm32n6xx_hal_cortex.o [5]
+__Vectors               0x3418'0400           --   Gb  startup_stm32n657xx_fsbl.o [2]
+__Vectors_End           0x3418'074c          Data  Gb  startup_stm32n657xx_fsbl.o [2]
+__Vectors_Size {Abs}          0x34c           --   Gb  startup_stm32n657xx_fsbl.o [2]
+__acle_se_SECURE_SystemCoreClockUpdate
+                        0x3418'418f          Code  Gb  system_stm32n6xx_fsbl.o [1]
+__cmain                 0x3418'432d          Code  Gb  cmain.o [8]
+__exit                  0x3418'4369    0x14  Code  Gb  exit.o [9]
+__iar_copy_init3        0x3418'3547    0x2a  Code  Gb  copy_init3.o [8]
+__iar_data_init3        0x3418'42e1    0x28  Code  Gb  data_init.o [8]
+__iar_init_vfp          0x3418'4309          Code  Gb  fpinit_M.o [7]
+__iar_program_start     0x3418'43a1          Code  Gb  cstartup_M.o [8]
+__iar_small_Memset      0x3418'3535          Code  Gb  ABImemset_small.o [8]
+__iar_small_Memset_word
+                        0x3418'3535          Code  Gb  ABImemset_small.o [8]
+__iar_small_memset      0x3418'3535          Code  Gb  ABImemset_small.o [8]
+__iar_zero_init3        0x3418'4281    0x38  Code  Gb  zero_init3.o [8]
+__low_level_init        0x3418'434f     0x4  Code  Gb  low_level_init.o [6]
+__vector_table          0x3418'0400          Data  Gb  startup_stm32n657xx_fsbl.o [2]
+_call_main              0x3418'4339          Code  Gb  cmain.o [8]
+_exit                   0x3418'4359          Code  Gb  cexit.o [8]
+_exit_2                 0x3418'435d          Code  Gb  cexit_2.o [8]
+aTxBuffer               0x341c'0010  0x2800  Data  Gb  main.o [3]
+exit                    0x3418'4353     0x4  Code  Gb  exit.o [6]
+hxspi1                  0x341c'2810    0x64  Data  Gb  main.o [3]
+main                    0x3418'364d   0x2d6  Code  Gb  main.o [3]
+mem_addr                0x341c'2884     0x4  Data  Gb  main.o [3]
+sMemMappedCfg           0x341c'2874    0x10  Data  Gb  main.o [3]
+uwTick                  0x341c'0004     0x4  Data  Gb  stm32n6xx_hal.o [5]
+uwTickFreq              0x341c'0000     0x1  Data  Gb  stm32n6xx_hal.o [5]
+uwTickPrio              0x341c'0008     0x4  Data  Gb  stm32n6xx_hal.o [5]
+
+
+[1] = C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\CMSIS_6603591812247902717.dir
+[2] = C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\EWARM_18443280873093131863.dir
+[3] = C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\FSBL_6700618725638365656.dir
+[4] = C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6570-DK_16682434716720697534.dir
+[5] = C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Obj\STM32N6xx_HAL_Driver_1884406842968247562.dir
+[6] = dl7M_tln.a
+[7] = m7M_tlv.a
+[8] = rt7M_tl.a
+[9] = shb_l.a
+
+  17'072 bytes of readonly  code memory
+      60 bytes of readonly  data memory
+  12'428 bytes of readwrite data memory
+
+Errors: none
+Warnings: none

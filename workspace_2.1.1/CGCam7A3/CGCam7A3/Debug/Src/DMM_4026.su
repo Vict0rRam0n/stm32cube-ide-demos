@@ -1,0 +1,5 @@
+../Src/DMM_4026.c:19:9:BSP_Audio_StartRecording	16	static
+../Src/DMM_4026.c:32:9:BSP_Audio_ProcessRecording	16	static
+../Src/DMM_4026.c:54:9:BSP_Audio_StopRecording	8	static
+../Src/DMM_4026.c:62:6:HAL_SAI_RxCpltCallback	16	static
+../Src/DMM_4026.c:69:6:HAL_SAI_RxHalfCpltCallback	16	static

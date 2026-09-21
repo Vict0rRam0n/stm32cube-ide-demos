@@ -1,0 +1,7 @@
+08:37:51 **** Incremental Build of configuration Debug for project DETECTOR_ToFLASH ****
+make -j8 all 
+make: *** No rule to make target 'C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/Pulse Detector to FLASH/Drivers/STM32G0xx_HAL_Driver/Src/stm32g0xx_hal.c', needed by 'Drivers/STM32G0xx_HAL_Driver/stm32g0xx_hal.o'.  Stop.
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+08:37:51 Build Failed. 1 errors, 0 warnings. (took 284ms)
+

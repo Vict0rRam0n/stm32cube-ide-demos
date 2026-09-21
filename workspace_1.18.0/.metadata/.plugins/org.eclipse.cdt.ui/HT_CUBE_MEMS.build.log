@@ -1,0 +1,40 @@
+10:23:03 **** Build of configuration Debug for project HT_CUBE_MEMS ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c" -mcpu=cortex-m0plus -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32G071xx -c -I../../X-CUBE-MEMS1/Target -I../../Core/Inc -I../../Drivers/STM32G0xx_HAL_Driver/Inc -I../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy -I../../Drivers/CMSIS/Device/ST/STM32G0xx/Include -I../../Drivers/CMSIS/Include -I../../Drivers/BSP/Components/hts221 -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/Core/main.d" -MT"Application/User/Core/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Application/User/Core/main.o"
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c: In function 'main':
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c:228:13: error: invalid storage class for function 'MX_USART2_UART_Init'
+  228 | static void MX_USART2_UART_Init(void)
+      |             ^~~~~~~~~~~~~~~~~~~
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c:276:13: error: invalid storage class for function 'MX_GPIO_Init'
+  276 | static void MX_GPIO_Init(void)
+      |             ^~~~~~~~~~~~
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c:327:1: error: expected declaration or statement at end of input
+  327 | }
+      | ^
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c: At top level:
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c:66:13: warning: 'MX_GPIO_Init' used but never defined
+   66 | static void MX_GPIO_Init(void);
+      |             ^~~~~~~~~~~~
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c:67:13: warning: 'MX_USART2_UART_Init' used but never defined
+   67 | static void MX_USART2_UART_Init(void);
+      |             ^~~~~~~~~~~~~~~~~~~
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c:318:6: warning: 'Error_Handler' defined but not used [-Wunused-function]
+  318 | void Error_Handler(void)
+      |      ^~~~~~~~~~~~~
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c:306:5: warning: '_write' defined but not used [-Wunused-function]
+  306 | int _write(int fd, char * ptr, int len)
+      |     ^~~~~~
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c:276:13: warning: 'MX_GPIO_Init' defined but not used [-Wunused-function]
+  276 | static void MX_GPIO_Init(void)
+      |             ^~~~~~~~~~~~
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c:228:13: warning: 'MX_USART2_UART_Init' defined but not used [-Wunused-function]
+  228 | static void MX_USART2_UART_Init(void)
+      |             ^~~~~~~~~~~~~~~~~~~
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/HT_CUBE_MEMS/Core/Src/main.c:187:6: warning: 'SystemClock_Config' defined but not used [-Wunused-function]
+  187 | void SystemClock_Config(void)
+      |      ^~~~~~~~~~~~~~~~~~
+make: *** [Application/User/Core/subdir.mk:34: Application/User/Core/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+10:23:05 Build Failed. 4 errors, 7 warnings. (took 1s.398ms)
+

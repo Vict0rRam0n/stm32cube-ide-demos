@@ -1,0 +1,7 @@
+10:52:57 **** Incremental Build of configuration Debug for project STM32F4_USB_HID_Mouse ****
+make -j8 all 
+make: *** No rule to make target 'C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32F4_USB_CDC/STM32F4_USB_CDC/Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_core.c', needed by 'Middlewares/USB_Device_Library/usbd_core.o'.  Stop.
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+10:52:58 Build Failed. 1 errors, 0 warnings. (took 312ms)
+

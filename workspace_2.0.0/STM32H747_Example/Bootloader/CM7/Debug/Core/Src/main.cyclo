@@ -1,0 +1,7 @@
+../Core/Src/main.c:75:13:JumpToCM7App	3
+../Core/Src/main.c:115:13:StartCM4	2
+../Core/Src/main.c:146:5:main	10
+../Core/Src/main.c:264:6:SystemClock_Config	4
+../Core/Src/main.c:313:13:MPU_Config	1
+../Core/Src/main.c:380:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:392:6:Error_Handler	1

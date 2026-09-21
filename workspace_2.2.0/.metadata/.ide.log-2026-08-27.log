@@ -1,0 +1,6 @@
+2026-08-27 14:00:14,544 [INFO] Activator:177 - 
+
+
+2026-08-27 14:00:14,550 [INFO] Activator:178 - !SESSION log4j initialized
+2026-08-27 14:00:20,557 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-08-27 14:18:39,716 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE

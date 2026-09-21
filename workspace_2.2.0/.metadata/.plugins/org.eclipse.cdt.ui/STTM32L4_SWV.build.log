@@ -1,0 +1,10 @@
+10:58:20 **** Incremental Build of configuration Debug for project STTM32L4_SWV ****
+make -j8 all 
+arm-none-eabi-size  STTM32L4_SWV.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6632	     12	   1572	   8216	   2018	STTM32L4_SWV.elf
+Finished building: default.size.stdout
+ 
+
+10:58:22 Build Finished. 0 errors, 0 warnings. (took 1s.639ms)
+

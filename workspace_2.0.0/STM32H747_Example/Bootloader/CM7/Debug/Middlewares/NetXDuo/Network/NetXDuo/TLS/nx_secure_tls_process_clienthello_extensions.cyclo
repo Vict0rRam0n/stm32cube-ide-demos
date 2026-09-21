@@ -1,0 +1,4 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_process_clienthello_extensions.c:110:6:_nx_secure_tls_process_clienthello_extensions	12
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_process_clienthello_extensions.c:337:13:_nx_secure_tls_proc_clienthello_sec_reneg_extension	11
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_process_clienthello_extensions.c:498:6:_nx_secure_tls_proc_clienthello_sec_sa_extension	23
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_process_clienthello_extensions.c:1260:6:_nx_secure_tls_get_signature_algorithm_id	19

@@ -1,0 +1,53 @@
+2026-08-19 11:47:45,705 [INFO] Activator:177 - 
+
+
+2026-08-19 11:47:45,714 [INFO] Activator:178 - !SESSION log4j initialized
+2026-08-19 11:47:55,041 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-08-19 14:08:42,756 [INFO] Activator:177 - 
+
+
+2026-08-19 14:08:42,757 [INFO] Activator:178 - !SESSION log4j initialized
+2026-08-19 14:08:47,938 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-08-19 14:54:19,491 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 14:55:39,468 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 14:55:48,604 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 14:56:38,464 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 14:58:15,385 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:01:48,270 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:03:23,045 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:03:41,249 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:03:59,092 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2026-08-19 15:05:35,534 [INFO] Activator:177 - 
+
+
+2026-08-19 15:05:35,536 [INFO] Activator:178 - !SESSION log4j initialized
+2026-08-19 15:05:44,096 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-08-19 15:16:29,137 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:20:12,894 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:21:12,471 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:21:29,498 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:21:50,400 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:22:32,505 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:23:53,874 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:24:41,754 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:26:14,941 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:27:09,309 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:27:20,485 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:28:22,840 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:29:38,077 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:30:40,756 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:31:03,568 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:32:32,949 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:34:52,217 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:35:07,084 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:36:13,707 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2026-08-19 15:36:17,485 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2026-08-19 15:37:15,813 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:37:38,242 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:38:10,815 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-08-19 15:38:23,853 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2026-08-19 15:40:56,410 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2026-08-19 15:41:50,932 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2026-08-19 15:41:54,549 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true
+2026-08-19 15:44:05,390 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=false
+2026-08-19 15:44:44,860 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] StartTraceHandler.execute(), success : Collect=true

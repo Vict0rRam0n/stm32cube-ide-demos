@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32U5G9J-DK2_BSP/Core/Src/Loader_Sr&apos; to &apos;Loader_Sr.c&apos;" description="Rename resource &apos;Loader_Sr&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/Loader_Sr" name="Loader_Sr.c" stamp="1751648616676" updateReferences="true"/>
+</session>

@@ -1,0 +1,21 @@
+11:14:38 **** Incremental Build of configuration FLASH_BANK1 for project STM32G0B1RE - DualBank ****
+make -j8 all 
+arm-none-eabi-size  STM32G0B1RE\ -\ DualBank.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20372	    104	   2160	  22636	   586c	STM32G0B1RE - DualBank.elf
+Finished building: default.size.stdout
+ 
+11:16:27 **** Incremental Build of configuration FLASH_BANK2 for project STM32G0B1RE - DualBank ****
+make -j8 all 
+arm-none-eabi-size  STM32G0B1RE\ -\ DualBank.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20372	    104	   2160	  22636	   586c	STM32G0B1RE - DualBank.elf
+Finished building: default.size.stdout
+ 
+11:16:28 **** Incremental Build of configuration FLASH_BANK1 for project STM32G0B1RE - DualBank ****
+make -j8 all 
+arm-none-eabi-size  STM32G0B1RE\ -\ DualBank.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20372	    104	   2160	  22636	   586c	STM32G0B1RE - DualBank.elf
+Finished building: default.size.stdout
+ 

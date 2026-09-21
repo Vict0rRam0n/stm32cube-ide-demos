@@ -1,0 +1,10 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:96:5:main	5
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:174:6:SystemClock_Config	3
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:216:13:MX_USART2_UART_Init	5
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:265:13:MX_GPIO_Init	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:311:6:writeToFlash	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:327:15:Read_GPIO_Pin	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:331:6:eraseFlash	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:366:17:GetPage	8
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:384:17:GetBank	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:395:6:Error_Handler	1

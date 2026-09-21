@@ -1,0 +1,10 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/SPI_MASTER/Core/Src/main.c:67:6:fill_buffer	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/SPI_MASTER/Core/Src/main.c:72:5:__io_getchar	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/SPI_MASTER/Core/Src/main.c:81:5:__io_putchar	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/SPI_MASTER/Core/Src/main.c:95:5:main	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/SPI_MASTER/Core/Src/main.c:157:6:SystemClock_Config	3
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/SPI_MASTER/Core/Src/main.c:198:13:MX_SPI1_Init	2
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/SPI_MASTER/Core/Src/main.c:238:13:MX_USART2_UART_Init	5
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/SPI_MASTER/Core/Src/main.c:284:13:MX_DMA_Init	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/SPI_MASTER/Core/Src/main.c:302:13:MX_GPIO_Init	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/SPI_MASTER/Core/Src/main.c:343:6:Error_Handler	1

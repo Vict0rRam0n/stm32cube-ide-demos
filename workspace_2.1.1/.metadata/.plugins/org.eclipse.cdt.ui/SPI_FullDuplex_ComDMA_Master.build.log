@@ -1,0 +1,10 @@
+11:42:32 **** Incremental Build of configuration Debug for project SPI_FullDuplex_ComDMA_Master ****
+make -j8 all 
+arm-none-eabi-size  SPI_FullDuplex_ComDMA_Master.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20932	    140	   2232	  23304	   5b08	SPI_FullDuplex_ComDMA_Master.elf
+Finished building: default.size.stdout
+ 
+
+11:42:33 Build Finished. 0 errors, 0 warnings. (took 1s.132ms)
+

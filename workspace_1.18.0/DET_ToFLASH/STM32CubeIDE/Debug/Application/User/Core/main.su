@@ -1,0 +1,10 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:96:5:main	24	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:174:6:SystemClock_Config	96	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:216:13:MX_USART2_UART_Init	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:265:13:MX_GPIO_Init	48	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:311:6:writeToFlash	24	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:327:15:Read_GPIO_Pin	16	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:331:6:eraseFlash	24	static,ignoring_inline_asm
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:366:17:GetPage	24	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:384:17:GetBank	16	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DET_ToFLASH/Core/Src/main.c:395:6:Error_Handler	8	static,ignoring_inline_asm

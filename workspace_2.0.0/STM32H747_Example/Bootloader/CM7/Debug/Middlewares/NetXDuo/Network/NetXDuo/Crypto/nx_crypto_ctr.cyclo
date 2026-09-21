@@ -1,0 +1,4 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ctr.c:67:28:_nx_crypto_ctr_xor	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ctr.c:137:28:_nx_crypto_ctr_add_one	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ctr.c:210:21:_nx_crypto_ctr_encrypt	5
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ctr.c:294:21:_nx_crypto_ctr_encrypt_init	3

@@ -1,0 +1,14 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:135:19:HAL_InitTick	24	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:161:10:HAL_GetTick	4	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:219:5:main	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:273:10:Init	16	static,ignoring_inline_asm
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:359:10:MassErase	24	static,ignoring_inline_asm
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:413:10:Write	32	static,ignoring_inline_asm
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:468:10:SectorErase	32	static,ignoring_inline_asm
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:540:10:CheckSum	40	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:631:10:Verify	64	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:693:13:SystemClock_Config	136	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:749:1:__io_putchar	16	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:778:19:COM_Init	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:814:6:HAL_UART_MspInit	272	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.1/MX66LM1G45G/Core/Flash_loader/Src/Loader_Src.c:861:6:HAL_UART_MspDeInit	16	static

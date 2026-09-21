@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="true"/>
+	<list key="searchhistory">
+		<item value="SPI_TypeDef"/>
+		<item value="RXDR"/>
+		<item value="trigger_selection"/>
+		<item value="_REGISTER_CALLBACKS"/>
+		<item value="USE_HAL_DMA_REGISTER_CALLBACKS"/>
+		<item value="csr"/>
+		<item value="dma_register_callback"/>
+		<item value="callback"/>
+		<item value="hal_dma"/>
+		<item value="HAL_DMAEx_List_SetCircularMode"/>
+		<item value="circular"/>
+		<item value="loo"/>
+		<item value="trigger"/>
+		<item value="List_start"/>
+		<item value="List"/>
+	</list>
+	<list key="replacehistory">
+		<item value="handle_GPDMA1_Channel0"/>
+		<item value="handle_GPDMA1_Channel1"/>
+		<item value="aTxBuffer"/>
+		<item value="1"/>
+	</list>
+</section>

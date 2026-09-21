@@ -1,0 +1,4 @@
+../Core/Src/main.c:76:5:main	3
+../Core/Src/main.c:144:6:HAL_HSEM_FreeCallback	1
+../Core/Src/main.c:154:6:MPU_Config	1
+../Core/Src/main.c:213:6:Error_Handler	1

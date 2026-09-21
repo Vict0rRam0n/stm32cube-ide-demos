@@ -1,0 +1,4 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/LPBAM/TXApp/lpbam_txapp_config.c:37:6:MX_TXApp_Init	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/LPBAM/TXApp/lpbam_txapp_config.c:63:13:MX_SystemClock_Config	128	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/LPBAM/TXApp/lpbam_txapp_config.c:115:13:MX_SystemPower_Config	16	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/LPBAM/TXApp/lpbam_txapp_config.c:134:13:MX_SRAM_WaitState_Config	16	static

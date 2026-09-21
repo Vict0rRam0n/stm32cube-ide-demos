@@ -1,0 +1,5 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32WBA55CG_USART_GPDMA_Wakeup_TX_RX/Core/Src/stm32wbaxx_hal_msp.c:70:6:HAL_MspInit	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32WBA55CG_USART_GPDMA_Wakeup_TX_RX/Core/Src/stm32wbaxx_hal_msp.c:92:6:HAL_LPTIM_MspInit	3
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32WBA55CG_USART_GPDMA_Wakeup_TX_RX/Core/Src/stm32wbaxx_hal_msp.c:126:6:HAL_LPTIM_MspDeInit	2
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32WBA55CG_USART_GPDMA_Wakeup_TX_RX/Core/Src/stm32wbaxx_hal_msp.c:148:6:HAL_UART_MspInit	11
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32WBA55CG_USART_GPDMA_Wakeup_TX_RX/Core/Src/stm32wbaxx_hal_msp.c:291:6:HAL_UART_MspDeInit	2

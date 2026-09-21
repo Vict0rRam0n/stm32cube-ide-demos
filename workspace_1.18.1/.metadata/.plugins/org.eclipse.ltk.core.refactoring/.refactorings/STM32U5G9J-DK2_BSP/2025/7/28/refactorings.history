@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;STM32U5G9J-DK2_BSP/Link.ld&apos; to &apos;Linker Original.ld&apos;" description="Rename resource &apos;Link.ld&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Link.ld" name="Linker Original.ld" stamp="1751895917636" updateReferences="true"/>
+</session>

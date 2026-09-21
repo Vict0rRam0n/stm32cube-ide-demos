@@ -1,0 +1,10 @@
+10:22:58 **** Build of configuration Debug for project DMA_FLASHToRAM ****
+make -j8 all 
+arm-none-eabi-size  DMA_FLASHToRAM.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7524	     24	   1808	   9356	   248c	DMA_FLASHToRAM.elf
+Finished building: default.size.stdout
+ 
+
+10:22:59 Build Finished. 0 errors, 0 warnings. (took 723ms)
+

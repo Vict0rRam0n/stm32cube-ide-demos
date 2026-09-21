@@ -1,0 +1,637 @@
+2025-04-25 07:16:11,359 [INFO] Activator:176 - 
+
+
+2025-04-25 07:16:11,371 [INFO] Activator:177 - !SESSION log4j initialized
+2025-04-25 07:16:29,278 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2025-04-25 07:16:31,191 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 07:16:31,192 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 07:16:31,192 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 07:17:02,584 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554
+2025-04-25 07:17:02,606 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\/mcu/
+2025-04-25 07:17:02,606 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\/plugins/boardmanager/
+2025-04-25 07:17:02,606 [WARN] ApiDb:259 - Overriding images path with different value:  => C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\/plugins/mcufinder/images/
+2025-04-25 07:17:02,625 [INFO] ApiDb:250 - Set database path to: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder//mcu/
+2025-04-25 07:17:02,628 [INFO] DbMcusAds:125 - Set database path to: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder//mcu/
+2025-04-25 07:17:02,837 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-04-25 07:17:02,994 [INFO] RulesReader:64 - Compatibility file has been processed (301 Rules)
+2025-04-25 07:17:03,114 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\/mcu/
+2025-04-25 07:17:03,114 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\/plugins/boardmanager/
+2025-04-25 07:17:03,114 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\/plugins/mcufinder/images/
+2025-04-25 07:17:03,115 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder/ => C:\Users\aliagavi\.stmcufinder\plugins\mcufinder
+2025-04-25 07:17:03,115 [INFO] ApiDb:250 - Set database path to: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder//mcu/
+2025-04-25 07:17:03,115 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder/ => C:\Users\aliagavi\.stmcufinder\plugins\mcufinder
+2025-04-25 07:17:03,115 [INFO] DbMcusAds:125 - Set database path to: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder//mcu/
+2025-04-25 07:17:03,115 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder/ => C:\Users\aliagavi\.stmcufinder\plugins\mcufinder
+2025-04-25 07:17:03,115 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder/ => C:\Users\aliagavi\.stmcufinder\plugins\mcufinder
+2025-04-25 07:17:03,314 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-04-25 07:17:03,429 [INFO] MainPanel:272 - HeapMemory: 268435456
+2025-04-25 07:17:03,606 [INFO] DbMcusXml:78 - Set database path to: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\/mcu/
+2025-04-25 07:17:03,607 [INFO] ApiDb:274 - Set plugin database path to: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\/plugins/boardmanager/
+2025-04-25 07:17:03,607 [INFO] ApiDb:261 - Set plugin images path to: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554\\db\/plugins/mcufinder/images/
+2025-04-25 07:17:03,607 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder/ => C:\Users\aliagavi\.stmcufinder\plugins\mcufinder
+2025-04-25 07:17:03,607 [INFO] ApiDb:250 - Set database path to: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder//mcu/
+2025-04-25 07:17:03,607 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder/ => C:\Users\aliagavi\.stmcufinder\plugins\mcufinder
+2025-04-25 07:17:03,607 [INFO] DbMcusAds:125 - Set database path to: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder//mcu/
+2025-04-25 07:17:03,607 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder/ => C:\Users\aliagavi\.stmcufinder\plugins\mcufinder
+2025-04-25 07:17:03,608 [WARN] DbFile:41 - Overriding database path with different value: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder/ => C:\Users\aliagavi\.stmcufinder\plugins\mcufinder
+2025-04-25 07:17:03,806 [INFO] CrossReferenceDbSqlite:203 - Set database path to: C:\Users\aliagavi\.stmcufinder\plugins\mcufinder//mcu/cs/
+2025-04-25 07:17:03,834 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554
+2025-04-25 07:17:03,835 [INFO] PluginManage:196 - Search for loadable plugins [exclusion list=, ]
+2025-04-25 07:17:03,836 [INFO] PluginManage:310 - Check plugin analytics
+2025-04-25 07:17:04,220 [INFO] AnalyticsPlugin:253 - Accepted Software Licenses: STM32CubeMX.6.14.0
+2025-04-25 07:17:04,220 [INFO] AnalyticsPlugin:255 - Accepted CMSIS Pack Licenses: STMicroelectronics.X-CUBE-FREERTOS.1.3.0
+2025-04-25 07:17:04,221 [INFO] AnalyticsPlugin:257 - Accepted Firmware Licenses: FW.G0.1.6.0,FW.N6.1.1.0,FW.H5.1.5.0
+2025-04-25 07:17:04,223 [INFO] PluginManage:359 - Loaded plugin analytics (category:tool,tabindex:-1)
+2025-04-25 07:17:04,224 [INFO] PluginManage:310 - Check plugin cadmodel
+2025-04-25 07:17:04,247 [INFO] CADModel:105 - Init CAD model plugin
+2025-04-25 07:17:04,247 [INFO] PluginManage:359 - Loaded plugin cadmodel (category:power,tabindex:5)
+2025-04-25 07:17:04,247 [INFO] PluginManage:310 - Check plugin clock
+2025-04-25 07:17:04,305 [INFO] PluginManage:359 - Loaded plugin clock (category:base,tabindex:2)
+2025-04-25 07:17:04,306 [INFO] PluginManage:310 - Check plugin ddr
+2025-04-25 07:17:04,309 [INFO] PluginManage:359 - Loaded plugin ddr (category:tool,tabindex:6)
+2025-04-25 07:17:04,309 [INFO] PluginManage:310 - Check plugin filemanager
+2025-04-25 07:17:04,384 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 07:17:04,384 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 07:17:04,385 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 07:17:04,483 [INFO] PluginManage:359 - Loaded plugin filemanager (category:base,tabindex:10)
+2025-04-25 07:17:04,483 [INFO] PluginManage:310 - Check plugin ipmanager
+2025-04-25 07:17:04,494 [INFO] PluginManage:359 - Loaded plugin ipmanager (category:base,tabindex:5)
+2025-04-25 07:17:04,494 [INFO] PluginManage:310 - Check plugin lpbam
+2025-04-25 07:17:04,522 [INFO] PluginManage:359 - Loaded plugin lpbam (category:base,tabindex:0)
+2025-04-25 07:17:04,522 [INFO] PluginManage:310 - Check plugin memorymap
+2025-04-25 07:17:04,553 [INFO] PluginManage:359 - Loaded plugin memorymap (category:base,tabindex:4)
+2025-04-25 07:17:04,553 [INFO] PluginManage:310 - Check plugin pinoutandconfiguration
+2025-04-25 07:17:04,578 [INFO] PluginManage:359 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2025-04-25 07:17:04,578 [INFO] PluginManage:310 - Check plugin pinoutconfig
+2025-04-25 07:17:04,692 [WARN] SupportedApi:132 - Cannot load RTOS API schema: s4s-elt-must-match.1: The content of 'definitions' must match (annotation?, (simpleType | complexType)?, (unique | key | keyref)*)). A problem was found starting at: attribute.
+2025-04-25 07:17:04,843 [INFO] PluginManage:359 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2025-04-25 07:17:04,843 [INFO] PluginManage:310 - Check plugin power
+2025-04-25 07:17:04,872 [INFO] PluginManage:359 - Loaded plugin power (category:power,tabindex:4)
+2025-04-25 07:17:04,872 [INFO] PluginManage:310 - Check plugin projectmanager
+2025-04-25 07:17:04,887 [INFO] PluginManage:359 - Loaded plugin projectmanager (category:projectmanager,tabindex:4)
+2025-04-25 07:17:04,887 [INFO] PluginManage:310 - Check plugin rif
+2025-04-25 07:17:04,911 [INFO] PluginManage:359 - Loaded plugin rif (category:base,tabindex:3)
+2025-04-25 07:17:04,911 [INFO] PluginManage:310 - Check plugin thirdparty
+2025-04-25 07:17:05,342 [INFO] PluginManage:359 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2025-04-25 07:17:05,342 [WARN] IntegrityCheckThread:84 - waiting for thirdparty lock release [integrity check]
+2025-04-25 07:17:05,343 [INFO] PluginManage:310 - Check plugin tools
+2025-04-25 07:17:05,343 [INFO] IntegrityCheckThread:86 - entering critical section [integrity check]
+2025-04-25 07:17:05,343 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [1/15]
+2025-04-25 07:17:05,420 [INFO] PluginManage:359 - Loaded plugin tools (category:base,tabindex:7)
+2025-04-25 07:17:05,420 [INFO] PluginManage:310 - Check plugin tutovideos
+2025-04-25 07:17:05,663 [INFO] PluginManage:359 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2025-04-25 07:17:05,663 [INFO] PluginManage:310 - Check plugin updater
+2025-04-25 07:17:05,686 [INFO] PluginManage:359 - Loaded plugin updater (category:base,tabindex:12)
+2025-04-25 07:17:05,686 [INFO] PluginManage:310 - Check plugin userauth
+2025-04-25 07:17:05,691 [INFO] UserAuth:118 - Init User Auth plugin
+2025-04-25 07:17:05,692 [INFO] PluginManage:359 - Loaded plugin userauth (category:base,tabindex:14)
+2025-04-25 07:17:05,692 [INFO] PluginManage:283 - PluginManage : Loaded plugins [18]
+2025-04-25 07:17:05,970 [INFO] PinOutPanel:1589 - setPackage(No Configuration,No Configuration)
+2025-04-25 07:17:06,097 [INFO] CADModel:165 - CPN selected for project level
+2025-04-25 07:17:06,097 [INFO] CADModel:114 - Register for checkConnection events
+2025-04-25 07:17:06,137 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,137 [INFO] PluginManager:220 - loadIPPluginJar : add adc
+2025-04-25 07:17:06,206 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,206 [INFO] PluginManager:220 - loadIPPluginJar : add aes
+2025-04-25 07:17:06,310 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,310 [INFO] PluginManager:220 - loadIPPluginJar : add can
+2025-04-25 07:17:06,353 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,353 [INFO] PluginManager:220 - loadIPPluginJar : add comp
+2025-04-25 07:17:06,412 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,413 [INFO] PluginManager:220 - loadIPPluginJar : add cryp
+2025-04-25 07:17:06,437 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,437 [INFO] PluginManager:220 - loadIPPluginJar : add ddr_ctrl_phy
+2025-04-25 07:17:06,490 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,490 [INFO] PluginManager:220 - loadIPPluginJar : add dfsdm
+2025-04-25 07:17:06,510 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,511 [INFO] PluginManager:220 - loadIPPluginJar : add dma
+2025-04-25 07:17:06,594 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,595 [INFO] PluginManager:220 - loadIPPluginJar : add dma3
+2025-04-25 07:17:06,670 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,671 [INFO] PluginManager:220 - loadIPPluginJar : add extmemmanager
+2025-04-25 07:17:06,705 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,705 [INFO] PluginManager:220 - loadIPPluginJar : add fatfs
+2025-04-25 07:17:06,792 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,792 [INFO] PluginManager:220 - loadIPPluginJar : add fmc
+2025-04-25 07:17:06,815 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,815 [INFO] PluginManager:220 - loadIPPluginJar : add freertos
+2025-04-25 07:17:06,851 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:06,851 [INFO] PluginManager:220 - loadIPPluginJar : add genericplugin
+2025-04-25 07:17:07,057 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:07,058 [INFO] PluginManager:220 - loadIPPluginJar : add gfxmmu
+2025-04-25 07:17:07,360 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:07,361 [INFO] PluginManager:220 - loadIPPluginJar : add gic
+2025-04-25 07:17:07,380 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:07,380 [INFO] PluginManager:220 - loadIPPluginJar : add gpio
+2025-04-25 07:17:07,575 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:07,576 [INFO] PluginManager:220 - loadIPPluginJar : add gtzc
+2025-04-25 07:17:07,639 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:07,639 [INFO] PluginManager:220 - loadIPPluginJar : add hash
+2025-04-25 07:17:07,760 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:07,761 [INFO] PluginManager:220 - loadIPPluginJar : add i2c
+2025-04-25 07:17:07,827 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:07,827 [INFO] PluginManager:220 - loadIPPluginJar : add i2s
+2025-04-25 07:17:07,917 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:07,918 [INFO] PluginManager:220 - loadIPPluginJar : add i3c
+2025-04-25 07:17:08,130 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,130 [INFO] PluginManager:220 - loadIPPluginJar : add ipddr
+2025-04-25 07:17:08,307 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,308 [INFO] PluginManager:220 - loadIPPluginJar : add linkedlist
+2025-04-25 07:17:08,349 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [2/15]
+2025-04-25 07:17:08,378 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,378 [INFO] PluginManager:220 - loadIPPluginJar : add lorawan
+2025-04-25 07:17:08,436 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,436 [INFO] PluginManager:220 - loadIPPluginJar : add ltdc
+2025-04-25 07:17:08,458 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,458 [INFO] PluginManager:220 - loadIPPluginJar : add mdma
+2025-04-25 07:17:08,477 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,477 [INFO] PluginManager:220 - loadIPPluginJar : add nvic
+2025-04-25 07:17:08,543 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,543 [INFO] PluginManager:220 - loadIPPluginJar : add opamp
+2025-04-25 07:17:08,670 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,670 [INFO] PluginManager:220 - loadIPPluginJar : add openamp
+2025-04-25 07:17:08,742 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,742 [INFO] PluginManager:220 - loadIPPluginJar : add pdm2pcm
+2025-04-25 07:17:08,776 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,779 [INFO] PluginManager:220 - loadIPPluginJar : add plateformsettings
+2025-04-25 07:17:08,823 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,823 [INFO] PluginManager:220 - loadIPPluginJar : add quadspi
+2025-04-25 07:17:08,867 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,869 [INFO] PluginManager:220 - loadIPPluginJar : add radio
+2025-04-25 07:17:08,887 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,887 [INFO] PluginManager:220 - loadIPPluginJar : add resmgrutility
+2025-04-25 07:17:08,960 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:08,960 [INFO] PluginManager:220 - loadIPPluginJar : add sai
+2025-04-25 07:17:09,026 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:09,026 [INFO] PluginManager:220 - loadIPPluginJar : add spi
+2025-04-25 07:17:09,147 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:09,147 [INFO] PluginManager:220 - loadIPPluginJar : add stm32_wpan
+2025-04-25 07:17:09,188 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:09,188 [INFO] PluginManager:220 - loadIPPluginJar : add tim
+2025-04-25 07:17:09,291 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:09,291 [INFO] PluginManager:220 - loadIPPluginJar : add touchsensing
+2025-04-25 07:17:09,331 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:09,331 [INFO] PluginManager:220 - loadIPPluginJar : add tracer_emb
+2025-04-25 07:17:09,385 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:09,385 [INFO] PluginManager:220 - loadIPPluginJar : add ts
+2025-04-25 07:17:09,424 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:09,425 [INFO] PluginManager:220 - loadIPPluginJar : add tsc
+2025-04-25 07:17:09,461 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:09,461 [INFO] PluginManager:220 - loadIPPluginJar : add ucpd
+2025-04-25 07:17:09,552 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:09,552 [INFO] PluginManager:220 - loadIPPluginJar : add usart
+2025-04-25 07:17:09,651 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2025-04-25 07:17:09,652 [INFO] PluginManager:220 - loadIPPluginJar : add usbx
+2025-04-25 07:17:09,797 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:09,822 [INFO] RulesReader:64 - Compatibility file has been processed (301 Rules)
+2025-04-25 07:17:09,836 [INFO] RulesReader:64 - Compatibility file has been processed (301 Rules)
+2025-04-25 07:17:09,844 [INFO] CADModel:165 - CPN selected for project level
+2025-04-25 07:17:09,844 [INFO] CADModel:114 - Register for checkConnection events
+2025-04-25 07:17:09,845 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:09,845 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-04-25 07:17:10,031 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:10,034 [INFO] CADModel:165 - CPN selected for project level
+2025-04-25 07:17:10,034 [INFO] CADModel:114 - Register for checkConnection events
+2025-04-25 07:17:10,034 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:10,034 [ERROR] CADModel:125 - Updater not yet initialized, retry later 
+2025-04-25 07:17:10,038 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:10,227 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:10,243 [INFO] DbMcusAds:53 - JSON generation date=Thu Mar 06 11:54:22 BRT 2025 (1741272862204)
+2025-04-25 07:17:10,244 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:10,308 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-04-25 07:17:10,615 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:10,616 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:10,616 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:10,616 [WARN] DetailPanel:346 - Failed to get advertising image, set to default
+2025-04-25 07:17:10,617 [FATAL] Updater:351 - Updater called before beeing initialized
+2025-04-25 07:17:10,700 [ERROR] Updater:1198 - MainUpdater not yet initialized. External WinMGr cannot be set.
+2025-04-25 07:17:10,714 [INFO] Updater:1134 - Updater Version found : 6.14.0
+2025-04-25 07:17:10,744 [INFO] ApplicationProperties:184 - Using Application install path: C:\ST\STM32CubeIDE_1.18.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.14.0.202502271554
+2025-04-25 07:17:11,356 [INFO] ThirdPartyUpdaterWithRetryManager:70 - Updater plugin not ready yet. [3/15]
+2025-04-25 07:17:12,344 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Apr 25, 2025 7:17:12 AM java.util.prefs.WindowsPreferences <init>
+2025-04-25 07:17:12,349 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] WARNING: Could not open/create prefs root node Software\JavaSoft\Prefs at root 0xffffffff80000002. Windows RegCreateKeyEx(...) returned error code 5.
+2025-04-25 07:17:12,349 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 
+2025-04-25 07:17:12,695 [INFO] MainUpdater:2872 - connection check result : 22
+2025-04-25 07:17:12,696 [INFO] MainUpdater:289 - Updater Check For Update Now.
+2025-04-25 07:17:12,696 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.140
+2025-04-25 07:17:12,723 [INFO] McuFinderGlobals:63 - Set McuFinder mode to 2 (CubeIDE integrated)
+2025-04-25 07:17:12,736 [INFO] UserAuth:486 - Internet connection configuration mode: 2
+2025-04-25 07:17:12,745 [INFO] UserAuth:486 - Internet connection configuration mode: 2
+2025-04-25 07:17:12,943 [INFO] CheckServerUpdateThread:120 - End of CheckServer Thread
+2025-04-25 07:17:14,771 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENVWB1.1.4.0
+2025-04-25 07:17:14,789 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-ASTRA1.2.0.2
+2025-04-25 07:17:14,815 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SMBUS.2.1.0
+2025-04-25 07:17:14,838 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-WB05N.1.1.0
+2025-04-25 07:17:14,886 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F7.1.1.0
+2025-04-25 07:17:14,933 [WARN] PackLoader:240 - Cannot read IP mode file for Infineon.AIROC-Wi-Fi-Bluetooth-STM32.1.7.0
+2025-04-25 07:17:14,960 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DISPLAY.3.0.0
+2025-04-25 07:17:14,983 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC10.1.0.0
+2025-04-25 07:17:15,009 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLEMGR.4.0.0
+2025-04-25 07:17:15,030 [WARN] PackLoader:240 - Cannot read IP mode file for emotas.I-CUBE-CANOPEN.1.3.0
+2025-04-25 07:17:15,047 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : Cortex-A Device cause : null
+2025-04-25 07:17:15,074 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-04-25 07:17:15,075 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-04-25 07:17:15,075 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : Cortex-A Device cause : null
+2025-04-25 07:17:15,091 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AI.10.0.0
+2025-04-25 07:17:15,110 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-SMARTAG2.1.2.0
+2025-04-25 07:17:15,132 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-FLIGHT1.5.1.0
+2025-04-25 07:17:15,200 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.11.1.0
+2025-04-25 07:17:15,657 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-25 07:17:15,657 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-25 07:17:15,658 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-25 07:17:15,659 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-25 07:17:15,660 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 1 : Invalid condition id : UX_CORESTACK_Condition cause : null
+2025-04-25 07:17:15,664 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WL.2.0.0
+2025-04-25 07:17:15,685 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-MOTENV1.5.0.0
+2025-04-25 07:17:15,704 [WARN] PackLoader:240 - Cannot read IP mode file for WES.I-CUBE-Cesium.1.3.0
+2025-04-25 07:17:15,720 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE2.3.3.0
+2025-04-25 07:17:15,737 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC9.1.0.0
+2025-04-25 07:17:15,757 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-BLE1.7.1.0
+2025-04-25 07:17:15,777 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfMQTT.1.19.2
+2025-04-25 07:17:15,846 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-MEMS1.11.2.0
+2025-04-25 07:17:16,018 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G0.1.1.0
+2025-04-25 07:17:16,048 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SAFEA1.1.2.2
+2025-04-25 07:17:16,069 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC4.3.0.0
+2025-04-25 07:17:16,099 [WARN] PackLoader:240 - Cannot read IP mode file for EmbeddedOffice.I-CUBE-FS-RTOS.1.0.1
+2025-04-25 07:17:16,122 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-WB05N.2.0.0
+2025-04-25 07:17:16,143 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfTPM.3.8.0
+2025-04-25 07:17:16,163 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TCPP.4.2.0
+2025-04-25 07:17:16,186 [WARN] PackLoader:240 - Cannot read IP mode file for RealThread.X-CUBE-RT-Thread_Nano.4.1.1
+2025-04-25 07:17:16,211 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-ATR-SIGFOX1.3.2.0
+2025-04-25 07:17:16,236 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-EEPRMA1.5.1.0
+2025-04-25 07:17:16,258 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSL.5.7.6
+2025-04-25 07:17:16,286 [WARN] PackLoader:240 - Cannot read IP mode file for ITTIA_DB.I-CUBE-ITTIADB.8.9.0
+2025-04-25 07:17:16,329 [WARN] PackLoader:240 - Cannot read IP mode file for SEGGER.I-CUBE-embOS.1.3.1
+2025-04-25 07:17:16,390 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALGOBUILD.1.4.0
+2025-04-25 07:17:16,429 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-F4.1.1.0
+2025-04-25 07:17:16,452 [WARN] PackLoader:240 - Cannot read IP mode file for Avnet-IotConnect.X-CUBE-IoTC-DA16k-PMOD.1.0.0
+2025-04-25 07:17:16,475 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ISPU.2.1.0
+2025-04-25 07:17:16,513 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L5.2.0.0
+2025-04-25 07:17:16,541 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC6.3.1.0
+2025-04-25 07:17:16,569 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DPower.1.2.0
+2025-04-25 07:17:16,593 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-FREERTOS.1.3.0
+2025-04-25 07:17:16,681 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-NFC7.1.0.1
+2025-04-25 07:17:16,697 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-DPower.1.3.0
+2025-04-25 07:17:16,728 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-04-25 07:17:16,729 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-L4.2.0.0
+2025-04-25 07:17:16,730 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-04-25 07:17:16,730 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-04-25 07:17:16,731 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : LAN8742 Phy interface Condition cause : null
+2025-04-25 07:17:16,756 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SFXS2LP1.4.0.0
+2025-04-25 07:17:16,808 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7.3.3.0
+2025-04-25 07:17:16,845 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-25 07:17:16,846 [WARN] ConditionMgr:438 - getConditionDescription Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-25 07:17:16,847 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-WB.2.0.0
+2025-04-25 07:17:16,847 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-25 07:17:16,847 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-25 07:17:16,847 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-25 07:17:16,847 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-25 07:17:16,848 [WARN] ConditionMgr:1044 - genDependencies : Invalid condition id : UX DEVICE CLASS RTOS Condition cause : null
+2025-04-25 07:17:16,868 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-GNSS1.7.0.1
+2025-04-25 07:17:16,893 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOUCHGFX.4.25.0
+2025-04-25 07:17:16,909 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.FP-SNS-STBOX1.2.0.0
+2025-04-25 07:17:16,934 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-SUBG2.5.0.0
+2025-04-25 07:17:16,979 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.1.0
+2025-04-25 07:17:17,004 [WARN] PackLoader:240 - Cannot read IP mode file for Cesanta.I-CUBE-Mongoose.7.13.0
+2025-04-25 07:17:17,041 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-G4.2.0.0
+2025-04-25 07:17:17,071 [WARN] PackLoader:240 - Cannot read IP mode file for wolfSSL.I-CUBE-wolfSSH.1.4.20
+2025-04-25 07:17:17,094 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-IPS.3.1.0
+2025-04-25 07:17:17,125 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-ALS.1.0.2
+2025-04-25 07:17:17,151 [WARN] PackLoader:240 - Cannot read IP mode file for portGmbH.I-Cube-SoM-uGOAL.1.1.0
+2025-04-25 07:17:17,200 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-AZRTOS-H7RS.1.0.0
+2025-04-25 07:17:17,238 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.2
+2025-04-25 07:17:17,263 [WARN] PackLoader:240 - Cannot read IP mode file for STMicroelectronics.X-CUBE-TOF1.3.4.3
+2025-04-25 07:17:17,269 [INFO] ThirdParty:978 - Integrity check success = true
+2025-04-25 07:17:17,269 [INFO] IntegrityCheckThread:100 - exiting critical section [integrity check]
+2025-04-25 07:17:17,269 [INFO] IntegrityCheckThread:103 - End integrity checks thread
+2025-04-25 08:02:44,978 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:02:44,979 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:02:44,980 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:04:41,049 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:04:41,050 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:04:41,051 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:04:52,832 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:04:52,833 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:04:52,834 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:30:04,555 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:30:04,557 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:30:04,557 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:31:29,840 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:31:29,841 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:31:29,842 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:31:31,929 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:31:31,930 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:31:31,930 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:32:07,457 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:32:07,458 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:32:07,458 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:32:33,738 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:32:33,739 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:32:33,739 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:32:50,856 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:32:50,856 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:32:50,857 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:33:19,923 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:33:19,924 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:33:19,924 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:35:17,560 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:35:17,561 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:35:17,561 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:37:57,221 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:37:57,221 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:37:57,221 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:38:52,682 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:38:52,683 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:38:52,684 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:39:51,903 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:39:51,903 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:39:51,904 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:40:55,054 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:40:55,055 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:40:55,056 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:48:54,765 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:48:54,766 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:48:54,766 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:50:22,258 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:50:22,259 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:50:22,260 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:50:38,208 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:50:38,208 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:50:38,209 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:51:07,944 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:51:07,945 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:51:07,946 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:58:08,373 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:58:08,374 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:58:08,374 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:58:08,519 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:58:08,520 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:58:08,520 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:58:43,557 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:58:43,558 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:58:43,559 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:59:05,953 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:59:05,953 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 08:59:05,954 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:16,277 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:16,277 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:16,278 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:16,445 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:16,446 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:16,446 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:44,182 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:44,183 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:44,183 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:44,313 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:44,315 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:00:44,315 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:02:26,895 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:02:26,896 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:02:26,896 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:03:46,214 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:03:46,215 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:03:46,215 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:03:46,251 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:03:46,251 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:03:46,252 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:07:55,319 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:07:55,319 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:07:55,320 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:09:58,206 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:09:58,207 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:09:58,207 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:09:58,353 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:09:58,353 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:09:58,355 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:11:14,253 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:11:14,254 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:11:14,254 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:11:14,416 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:11:14,417 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:11:14,417 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:12:09,706 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:12:09,708 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:12:09,708 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:12:52,983 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:12:52,983 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:12:52,983 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:13:25,633 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:13:25,634 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:13:25,634 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:14:06,950 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:14:06,951 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:14:06,951 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:15:38,771 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:15:38,772 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:15:38,772 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:15:38,885 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:15:38,885 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:15:38,885 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:16:10,601 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:16:10,602 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:16:10,602 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:21:39,438 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:21:39,439 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:21:39,439 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:21:39,580 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:21:39,581 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:21:39,581 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:22:12,479 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:22:12,480 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:22:12,480 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:25:03,214 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:25:03,215 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:25:03,216 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:28:35,939 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:28:35,940 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:28:35,940 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:28:36,075 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:28:36,076 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:28:36,076 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:34:39,348 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:34:39,349 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:34:39,349 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:34:39,397 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:34:39,398 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:34:39,398 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:35:56,690 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:35:56,691 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:35:56,691 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:36:40,656 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:36:40,657 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:36:40,658 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:36:40,799 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:36:40,800 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:36:40,800 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:38:40,095 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:38:40,095 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:38:40,096 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:38:40,231 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:38:40,232 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:38:40,232 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:40:27,081 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:40:27,082 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:40:27,082 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:48:11,159 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:48:11,159 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:48:11,160 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:48:11,266 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:48:11,267 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:48:11,267 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:48:36,825 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:48:36,826 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:48:36,827 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:49:04,649 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:49:04,650 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:49:04,650 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:49:04,794 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:49:04,795 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:49:04,795 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:50:20,516 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:50:20,517 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:50:20,517 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:50:20,659 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:50:20,659 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:50:20,660 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:50:33,646 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:50:33,646 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:50:33,647 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:53:45,449 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:53:45,450 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:53:45,450 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:53:45,642 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:53:45,643 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:53:45,643 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:54:11,068 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:54:11,069 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 09:54:11,069 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:01:29,622 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:01:29,623 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:01:29,623 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:01:44,156 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:01:44,158 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:01:44,158 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:04:37,679 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:04:37,679 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:04:37,680 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:05:20,974 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:05:20,975 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:05:20,975 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:09:10,191 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:09:10,191 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:09:10,191 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:09:10,333 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:09:10,334 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:09:10,334 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:16:03,397 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:16:03,397 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:16:03,398 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:16:58,414 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:16:58,414 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:16:58,414 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:10,567 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:10,568 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:10,569 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:37,683 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:37,683 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:37,683 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:42,124 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:42,124 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:42,125 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:42,411 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:42,411 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:42,412 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:56,467 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:56,468 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:19:56,468 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:21:24,065 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:21:24,066 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:21:24,066 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:21:24,176 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:21:24,176 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:21:24,176 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:23:12,522 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:23:12,522 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:23:12,523 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:24:20,067 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:24:20,068 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:24:20,068 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:27:41,650 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:27:41,651 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:27:41,652 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:29:24,132 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:29:24,133 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:29:24,133 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:29:36,639 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:29:36,640 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:29:36,641 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:30:20,259 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:30:20,260 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:30:20,260 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:30:25,907 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:30:25,908 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:30:25,908 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:30:34,664 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:30:34,664 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:30:34,664 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:32:26,622 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:32:26,623 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:32:26,624 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:32:50,015 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:32:50,015 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:32:50,015 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:34:26,666 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:34:26,667 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:34:26,667 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:35:17,064 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:35:17,064 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:35:17,065 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:35:46,675 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:35:46,675 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:35:46,676 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:37:15,022 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:37:15,023 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:37:15,023 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:37:36,575 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:37:36,576 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:37:36,576 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:39:12,712 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:39:12,713 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:39:12,713 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:41:43,025 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:41:43,026 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:41:43,026 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:44:07,234 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:44:07,234 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:44:07,234 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:44:18,759 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:44:18,760 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:44:18,760 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:59:27,423 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:59:27,423 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 10:59:27,423 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:04:24,435 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:04:24,436 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:04:24,436 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:04:54,566 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:04:54,567 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:04:54,567 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:05:16,253 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:05:16,254 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:05:16,254 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:00,797 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:00,798 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:00,798 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:05,636 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:05,636 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:05,637 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:06,582 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:06,582 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:06,582 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:52,737 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:52,737 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:09:52,738 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:17:00,735 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:17:00,736 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:17:00,737 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2025-04-25 11:17:02,839 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 

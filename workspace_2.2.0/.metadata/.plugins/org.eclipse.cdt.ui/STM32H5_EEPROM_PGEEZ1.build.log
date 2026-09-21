@@ -1,0 +1,68 @@
+11:34:24 **** Incremental Build of configuration Debug for project STM32H5_EEPROM_PGEEZ1 ****
+make -j8 all 
+arm-none-eabi-gcc "../Application/User/EEPROM/pgeez1_m95p32.c" -mcpu=cortex-m33 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32H503xx -c -I../../EEPROM -I../../Core/Inc -I../../Drivers/STM32H5xx_HAL_Driver/Inc -I../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I../../Drivers/CMSIS/Include -I../../Drivers/BSP/Components/M95P32 -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/EEPROM/pgeez1_m95p32.d" -MT"Application/User/EEPROM/pgeez1_m95p32.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "Application/User/EEPROM/pgeez1_m95p32.o"
+../Application/User/EEPROM/pgeez1_m95p32.c: In function 'EEPROMEX_CTRL_HIGH':
+../Application/User/EEPROM/pgeez1_m95p32.c:39:3: error: implicit declaration of function 'HAL_GPIO_WritePin' [-Wimplicit-function-declaration]
+   39 |   HAL_GPIO_WritePin(M95P32_EEPROM_SPI_CS_PORT,M95P32_EEPROM_SPI_CS_PIN,GPIO_PIN_SET );
+      |   ^~~~~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:39:21: error: 'M95P32_EEPROM_SPI_CS_PORT' undeclared (first use in this function)
+   39 |   HAL_GPIO_WritePin(M95P32_EEPROM_SPI_CS_PORT,M95P32_EEPROM_SPI_CS_PIN,GPIO_PIN_SET );
+      |                     ^~~~~~~~~~~~~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:39:21: note: each undeclared identifier is reported only once for each function it appears in
+../Application/User/EEPROM/pgeez1_m95p32.c:39:47: error: 'M95P32_EEPROM_SPI_CS_PIN' undeclared (first use in this function)
+   39 |   HAL_GPIO_WritePin(M95P32_EEPROM_SPI_CS_PORT,M95P32_EEPROM_SPI_CS_PIN,GPIO_PIN_SET );
+      |                                               ^~~~~~~~~~~~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:39:72: error: 'GPIO_PIN_SET' undeclared (first use in this function)
+   39 |   HAL_GPIO_WritePin(M95P32_EEPROM_SPI_CS_PORT,M95P32_EEPROM_SPI_CS_PIN,GPIO_PIN_SET );
+      |                                                                        ^~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c: In function 'EEPROMEX_CTRL_LOW':
+../Application/User/EEPROM/pgeez1_m95p32.c:49:21: error: 'M95P32_EEPROM_SPI_CS_PORT' undeclared (first use in this function)
+   49 |   HAL_GPIO_WritePin(M95P32_EEPROM_SPI_CS_PORT,M95P32_EEPROM_SPI_CS_PIN,GPIO_PIN_RESET );
+      |                     ^~~~~~~~~~~~~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:49:47: error: 'M95P32_EEPROM_SPI_CS_PIN' undeclared (first use in this function)
+   49 |   HAL_GPIO_WritePin(M95P32_EEPROM_SPI_CS_PORT,M95P32_EEPROM_SPI_CS_PIN,GPIO_PIN_RESET );
+      |                                               ^~~~~~~~~~~~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:49:72: error: 'GPIO_PIN_RESET' undeclared (first use in this function)
+   49 |   HAL_GPIO_WritePin(M95P32_EEPROM_SPI_CS_PORT,M95P32_EEPROM_SPI_CS_PIN,GPIO_PIN_RESET );
+      |                                                                        ^~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c: In function 'PGEEZ1_M95P32_StatusConfigRegWrite':
+../Application/User/EEPROM/pgeez1_m95p32.c:166:3: error: implicit declaration of function 'HAL_Delay' [-Wimplicit-function-declaration]
+  166 |   HAL_Delay(5);
+      |   ^~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c: In function 'PGEEZ1_M95P32_WritePage':
+../Application/User/EEPROM/pgeez1_m95p32.c:282:34: error: 'NULL' undeclared (first use in this function)
+  282 |   if((M95P32CompObj[Instance] == NULL) || (pData == NULL) || (M95P32_PAGESIZE == 0U) || (remainingSize == 0U))
+      |                                  ^~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:21:1: note: 'NULL' is defined in header '<stddef.h>'; this is probably fixable by adding '#include <stddef.h>'
+   20 | #include "pgeez1_m95p32.h"
+  +++ |+#include <stddef.h>
+   21 | 
+../Application/User/EEPROM/pgeez1_m95p32.c: In function 'PGEEZ1_M95P32_ProgramPage':
+../Application/User/EEPROM/pgeez1_m95p32.c:386:34: error: 'NULL' undeclared (first use in this function)
+  386 |   if((M95P32CompObj[Instance] == NULL) || (pData == NULL) || (M95P32_PAGESIZE == 0U) || (remainingSize == 0U))
+      |                                  ^~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:386:34: note: 'NULL' is defined in header '<stddef.h>'; this is probably fixable by adding '#include <stddef.h>'
+../Application/User/EEPROM/pgeez1_m95p32.c: In function 'M95P32_Probe':
+../Application/User/EEPROM/pgeez1_m95p32.c:914:38: error: 'SERIAL_COM_INIT' undeclared (first use in this function)
+  914 |   io_ctxm95p32.Init                = SERIAL_COM_INIT;
+      |                                      ^~~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:915:38: error: 'SERIAL_COM_DEINIT' undeclared (first use in this function)
+  915 |   io_ctxm95p32.DeInit              = SERIAL_COM_DEINIT;
+      |                                      ^~~~~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:916:38: error: 'PGEEZ1_M95_DELAY' undeclared (first use in this function)
+  916 |   io_ctxm95p32.Delay               = PGEEZ1_M95_DELAY;
+      |                                      ^~~~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:919:38: error: 'SERIAL_COM_RECV' undeclared (first use in this function)
+  919 |   io_ctxm95p32.Read                = SERIAL_COM_RECV;
+      |                                      ^~~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:920:38: error: 'SERIAL_COM_SEND' undeclared (first use in this function)
+  920 |   io_ctxm95p32.Write               = SERIAL_COM_SEND;
+      |                                      ^~~~~~~~~~~~~~~
+../Application/User/EEPROM/pgeez1_m95p32.c:921:38: error: 'SERIAL_COM_SENDRECV' undeclared (first use in this function)
+  921 |   io_ctxm95p32.SendRecv            = SERIAL_COM_SENDRECV;
+      |                                      ^~~~~~~~~~~~~~~~~~~
+make: *** [Application/User/EEPROM/subdir.mk:19: Application/User/EEPROM/pgeez1_m95p32.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+11:34:25 Build Failed. 17 errors, 0 warnings. (took 998ms)
+

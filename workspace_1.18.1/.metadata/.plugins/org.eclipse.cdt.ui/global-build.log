@@ -1,0 +1,43 @@
+15:27:48 **** Build of configuration Debug for project USART_Communication_TxRx_DMA_Init ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32Cube/Example/STM32WBA55CG_USART_GPDMA_WakeupFromStop1/Src/main.c" -mcpu=cortex-m33 -std=gnu11 -g3 -DDEBUG -DUSE_FULL_LL_DRIVER -DHSE_VALUE=32000000 -DHSE_STARTUP_TIMEOUT=100 -DLSE_STARTUP_TIMEOUT=5000 -DLSE_VALUE=32768 -DEXTERNALSAI1_CLOCK_VALUE=48000 -DHSI_VALUE=16000000 -DLSI_VALUE=32000 -DVDD_VALUE=3300 -DPREFETCH_ENABLE=1 -DSTM32WBA55xx -c -I../../Inc -I../../Drivers/STM32WBAxx_HAL_Driver/Inc -I../../Drivers/CMSIS/Device/ST/STM32WBAxx/Include -I../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/main.d" -MT"Application/User/main.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "Application/User/main.o"
+C:/Users/aliagavi/STM32Cube/Example/STM32WBA55CG_USART_GPDMA_WakeupFromStop1/Src/main.c: In function 'EnterStop1Mode':
+C:/Users/aliagavi/STM32Cube/Example/STM32WBA55CG_USART_GPDMA_WakeupFromStop1/Src/main.c:600:3: warning: implicit declaration of function 'assert_param' [-Wimplicit-function-declaration]
+  600 |   assert_param(IS_PWR_REGULATOR(Regulator));
+      |   ^~~~~~~~~~~~
+C:/Users/aliagavi/STM32Cube/Example/STM32WBA55CG_USART_GPDMA_WakeupFromStop1/Src/main.c:600:16: warning: implicit declaration of function 'IS_PWR_REGULATOR' [-Wimplicit-function-declaration]
+  600 |   assert_param(IS_PWR_REGULATOR(Regulator));
+      |                ^~~~~~~~~~~~~~~~
+C:/Users/aliagavi/STM32Cube/Example/STM32WBA55CG_USART_GPDMA_WakeupFromStop1/Src/main.c:600:33: error: 'Regulator' undeclared (first use in this function)
+  600 |   assert_param(IS_PWR_REGULATOR(Regulator));
+      |                                 ^~~~~~~~~
+C:/Users/aliagavi/STM32Cube/Example/STM32WBA55CG_USART_GPDMA_WakeupFromStop1/Src/main.c:600:33: note: each undeclared identifier is reported only once for each function it appears in
+C:/Users/aliagavi/STM32Cube/Example/STM32WBA55CG_USART_GPDMA_WakeupFromStop1/Src/main.c:601:16: warning: implicit declaration of function 'IS_PWR_STOP_ENTRY' [-Wimplicit-function-declaration]
+  601 |   assert_param(IS_PWR_STOP_ENTRY(STOPEntry));
+      |                ^~~~~~~~~~~~~~~~~
+C:/Users/aliagavi/STM32Cube/Example/STM32WBA55CG_USART_GPDMA_WakeupFromStop1/Src/main.c:601:34: error: 'STOPEntry' undeclared (first use in this function)
+  601 |   assert_param(IS_PWR_STOP_ENTRY(STOPEntry));
+      |                                  ^~~~~~~~~
+make: *** [Application/User/subdir.mk:28: Application/User/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+15:28:40 **** Incremental Build of configuration Debug for project USART_Communication_TxRx_DMA_Init ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32Cube/Example/STM32WBA55CG_USART_GPDMA_WakeupFromStop1/Src/main.c" -mcpu=cortex-m33 -std=gnu11 -g3 -DDEBUG -DUSE_FULL_LL_DRIVER -DHSE_VALUE=32000000 -DHSE_STARTUP_TIMEOUT=100 -DLSE_STARTUP_TIMEOUT=5000 -DLSE_VALUE=32768 -DEXTERNALSAI1_CLOCK_VALUE=48000 -DHSI_VALUE=16000000 -DLSI_VALUE=32000 -DVDD_VALUE=3300 -DPREFETCH_ENABLE=1 -DSTM32WBA55xx -c -I../../Inc -I../../Drivers/STM32WBAxx_HAL_Driver/Inc -I../../Drivers/CMSIS/Device/ST/STM32WBAxx/Include -I../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/main.d" -MT"Application/User/main.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "Application/User/main.o"
+arm-none-eabi-gcc -o "USART_Communication_TxRx_DMA_Init.elf" @"objects.list"   -mcpu=cortex-m33 -T"C:\Users\aliagavi\STM32Cube\Example\STM32WBA55CG_USART_GPDMA_WakeupFromStop1\STM32CubeIDE\STM32WBA55CGUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="USART_Communication_TxRx_DMA_Init.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: USART_Communication_TxRx_DMA_Init.elf
+ 
+arm-none-eabi-size  USART_Communication_TxRx_DMA_Init.elf 
+arm-none-eabi-objdump -h -S USART_Communication_TxRx_DMA_Init.elf  > "USART_Communication_TxRx_DMA_Init.list"
+   text	   data	    bss	    dec	    hex	filename
+   9704	      8	   1584	  11296	   2c20	USART_Communication_TxRx_DMA_Init.elf
+Finished building: default.size.stdout
+ 
+Finished building: USART_Communication_TxRx_DMA_Init.list
+ 
+15:36:35 **** Incremental Build of configuration Debug for project PWR_STOP1 ****
+make -j8 all 
+arm-none-eabi-size  PWR_STOP1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20772	     56	   1768	  22596	   5844	PWR_STOP1.elf
+Finished building: default.size.stdout
+ 

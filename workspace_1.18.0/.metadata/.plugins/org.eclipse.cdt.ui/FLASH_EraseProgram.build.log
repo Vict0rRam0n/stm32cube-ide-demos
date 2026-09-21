@@ -1,0 +1,15 @@
+10:23:01 **** Build of configuration Debug for project FLASH_EraseProgram ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/FLASH_EraseProgram/Src/main.c" -mcpu=cortex-m0plus -std=gnu11 -g3 -DSTM32G0B1xx -DUSE_HAL_DRIVER -DDEBUG -c -I../../Inc -I../../Drivers/STM32G0xx_HAL_Driver/Inc -I../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy -I../../Drivers/CMSIS/Device/ST/STM32G0xx/Include -I../../Drivers/CMSIS/Include -I../../Drivers/BSP/STM32G0xx_Nucleo -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/main.d" -MT"Application/User/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Application/User/main.o"
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/FLASH_EraseProgram/Src/main.c: In function 'main':
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/FLASH_EraseProgram/Src/main.c:39:44: error: invalid suffix "x" on integer constant
+   39 | #define DATA_32                 ((uint32_t)0x)
+      |                                            ^~
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/FLASH_EraseProgram/Src/main.c:202:19: note: in expansion of macro 'DATA_32'
+  202 |     if (data32 != DATA_32)
+      |                   ^~~~~~~
+make: *** [Application/User/subdir.mk:31: Application/User/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+10:23:02 Build Failed. 2 errors, 0 warnings. (took 1s.35ms)
+

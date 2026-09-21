@@ -1,0 +1,10 @@
+10:27:01 **** Incremental Build of configuration Debug for project STM32H747_BL_CM7 ****
+make -j8 all 
+arm-none-eabi-size  STM32H747_BL_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 149804	    248	 247688	 397740	  611ac	STM32H747_BL_CM7.elf
+Finished building: default.size.stdout
+ 
+
+10:27:05 Build Finished. 0 errors, 0 warnings. (took 4s.98ms)
+

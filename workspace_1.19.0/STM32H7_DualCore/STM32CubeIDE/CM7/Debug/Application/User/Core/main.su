@@ -1,0 +1,4 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32H7_DualCore/CM7/Core/Src/main.c:76:5:main	16	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32H7_DualCore/CM7/Core/Src/main.c:157:6:SystemClock_Config	120	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32H7_DualCore/CM7/Core/Src/main.c:209:6:MPU_Config	24	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32H7_DualCore/CM7/Core/Src/main.c:240:6:Error_Handler	4	static,ignoring_inline_asm

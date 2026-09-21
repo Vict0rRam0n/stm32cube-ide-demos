@@ -1,0 +1,10 @@
+10:23:18 **** Build of configuration Debug for project TIM_DMA ****
+make -j8 all 
+arm-none-eabi-size  TIM_DMA.elf 
+   text	   data	    bss	    dec	    hex	filename
+  10064	     16	   1744	  11824	   2e30	TIM_DMA.elf
+Finished building: default.size.stdout
+ 
+
+10:23:19 Build Finished. 0 errors, 0 warnings. (took 566ms)
+

@@ -1,0 +1,3 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/STM32U5/stm32_ll_lpbam.c:928:16:LPBAM_GPIO_FillStructInfo	24	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/STM32U5/stm32_ll_lpbam.c:1833:16:LPBAM_SPI_FillStructInfo	24	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/STM32U5/stm32_ll_lpbam.c:2150:16:LPBAM_UART_FillStructInfo	24	static

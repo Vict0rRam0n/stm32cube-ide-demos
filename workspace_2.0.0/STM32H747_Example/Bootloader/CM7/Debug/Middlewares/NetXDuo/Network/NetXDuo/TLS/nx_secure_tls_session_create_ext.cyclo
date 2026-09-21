@@ -1,0 +1,4 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_session_create_ext.c:95:13:_find_cipher	5
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_session_create_ext.c:120:13:_map_tls_ciphersuites	15
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_session_create_ext.c:363:13:_map_x509_ciphersuites	10
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_session_create_ext.c:468:6:_nx_secure_tls_session_create_ext	39

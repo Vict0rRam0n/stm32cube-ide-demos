@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/cmake_install.cmake",
+		"C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/arch/cmsis/cmake_install.cmake",
+		"C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/stm32c5xx_dfp/cmake_install.cmake",
+		"C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/stm32c5xx_drivers/cmake_install.cmake",
+		"C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/utilities/syscalls/cmake_install.cmake",
+		"C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/generated/hal/cmake_install.cmake",
+		"C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/generated/utilities/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,297 @@
+2026-01-20 09:20:20,681 [INFO] Activator:176 - 
+
+
+2026-01-20 09:20:20,681 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-20 09:20:25,306 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-20 09:20:26,341 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 09:20:26,342 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 09:20:26,342 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 09:58:55,250 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 09:58:55,251 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 09:58:55,251 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 09:58:55,927 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 09:58:55,928 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 09:58:55,928 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:00:23,892 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:00:23,892 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:00:23,893 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:03:33,665 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:03:33,666 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:03:33,666 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:03:59,794 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:03:59,795 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:03:59,795 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:04:20,048 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:04:20,049 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:04:20,050 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:11:20,780 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:11:20,780 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:11:20,780 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:11:23,740 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:11:23,741 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:11:23,742 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:19:53,759 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:19:53,760 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:19:53,760 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:20:13,483 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:20:13,484 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:20:13,484 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:24:22,418 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:24:22,419 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:24:22,419 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:25:15,251 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:25:15,251 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:25:15,252 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:36:46,284 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:36:46,284 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:36:46,284 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:36:46,426 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:36:46,427 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:36:46,427 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:43:41,396 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:43:41,396 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:43:41,396 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:46:34,318 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:46:34,319 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:46:34,320 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:47:46,579 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:47:46,581 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:47:46,581 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:47:46,735 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:47:46,736 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:47:46,736 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:59:22,340 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:59:22,341 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:59:22,342 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:59:25,840 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:59:25,840 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:59:25,841 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:59:29,417 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:59:29,418 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 10:59:29,419 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:03:21,451 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:03:21,451 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:03:21,451 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:03:21,593 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:03:21,594 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:03:21,595 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:04:53,280 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:04:53,281 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:04:53,281 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:04:56,666 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:04:56,667 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:04:56,668 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:08:59,441 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:08:59,442 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:08:59,442 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:10:31,797 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:10:31,798 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:10:31,799 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:14:25,774 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:14:25,775 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:14:25,775 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:14:40,124 [INFO] Activator:176 - 
+
+
+2026-01-20 11:14:40,126 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-20 11:14:45,473 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-20 11:14:46,611 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:14:46,612 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:14:46,613 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:15:12,934 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:15:12,935 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:15:12,935 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:15:59,929 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:15:59,930 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:15:59,930 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:16:17,552 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:16:17,553 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:16:17,554 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:18:05,948 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:18:05,949 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:18:05,949 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:18:25,325 [INFO] Activator:176 - 
+
+
+2026-01-20 11:18:25,326 [INFO] Activator:177 - !SESSION log4j initialized
+2026-01-20 11:18:30,771 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-01-20 11:18:31,436 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:18:31,437 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:18:31,438 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:20:18,033 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:20:18,034 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:20:18,034 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:20:36,389 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:20:36,390 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:20:36,390 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:24:17,026 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:24:17,027 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:24:17,027 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:24:28,391 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:24:28,391 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:24:28,392 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:25:01,490 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:25:01,491 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 11:25:01,491 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 13:34:34,160 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 13:34:34,161 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 13:34:34,162 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 13:34:35,301 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 13:34:35,301 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 13:34:35,301 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:22:03,684 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:22:03,686 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:22:03,687 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:54:36,240 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:54:36,243 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:54:36,243 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:55:32,495 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:55:32,496 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:55:32,496 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:55:32,940 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:55:32,941 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:55:32,942 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:55:36,008 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] java.io.FileNotFoundException: C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\GPIO_EXTI\STM32CubeIDE\CM7\Debug\GPIO_EXTI_CM7.elf (The system cannot find the file specified)
+2026-01-20 14:55:36,010 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.io.RandomAccessFile.open0(Native Method)
+2026-01-20 14:55:36,011 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:356)
+2026-01-20 14:55:36,012 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:273)
+2026-01-20 14:55:36,013 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:223)
+2026-01-20 14:55:36,013 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:137)
+2026-01-20 14:55:36,014 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.utils.ERandomAccessFile.<init>(ERandomAccessFile.java:32)
+2026-01-20 14:55:36,015 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.utils.elf.Elf.commonSetup(Elf.java:700)
+2026-01-20 14:55:36,015 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.utils.elf.Elf.<init>(Elf.java:721)
+2026-01-20 14:55:36,016 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.debug.launch.LaunchSequenceUtil.getAddressForSection(LaunchSequenceUtil.java:1196)
+2026-01-20 14:55:36,017 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.debug.launch.LaunchSequenceUtil.getLoadSymbolCommandForItem(LaunchSequenceUtil.java:1176)
+2026-01-20 14:55:36,018 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.debug.launch.LaunchSequenceUtil.getLoadSymbolCommandsFromLoadList(LaunchSequenceUtil.java:1160)
+2026-01-20 14:55:36,019 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.debug.launch.LaunchSequenceUtil.stepLoadSymbols(LaunchSequenceUtil.java:1133)
+2026-01-20 14:55:36,020 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.stm32cube.ide.mcu.debug.launch.GDBExtendedJtagDSFFinalLaunchSequence_7_12.stepLoadSymbols(GDBExtendedJtagDSFFinalLaunchSequence_7_12.java:67)
+2026-01-20 14:55:36,021 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+2026-01-20 14:55:36,022 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+2026-01-20 14:55:36,023 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.dsf.concurrent.ReflectionSequence$ReflectionStep.execute(ReflectionSequence.java:160)
+2026-01-20 14:55:36,023 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.dsf.concurrent.Sequence.executeStep(Sequence.java:475)
+2026-01-20 14:55:36,024 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.dsf.concurrent.Sequence$2.handleSuccess(Sequence.java:437)
+2026-01-20 14:55:36,025 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.dsf.concurrent.RequestMonitor.handleCompleted(RequestMonitor.java:391)
+2026-01-20 14:55:36,026 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at org.eclipse.cdt.dsf.concurrent.RequestMonitor$2.run(RequestMonitor.java:317)
+2026-01-20 14:55:36,026 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+2026-01-20 14:55:36,027 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+2026-01-20 14:55:36,027 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+2026-01-20 14:55:36,028 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+2026-01-20 14:55:36,029 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+2026-01-20 14:55:36,029 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.lang.Thread.run(Thread.java:1583)
+2026-01-20 14:57:26,504 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:57:26,505 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:57:26,505 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:57:50,139 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:57:50,140 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 14:57:50,140 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:12:36,287 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:12:36,288 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:12:36,288 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:12:36,526 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:12:36,526 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:12:36,527 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:13:24,134 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:13:24,135 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:13:24,135 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:13:59,287 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:13:59,288 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:13:59,288 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:14:01,186 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:14:01,187 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:14:01,188 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:14:19,168 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:14:19,168 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:14:19,169 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:14:37,263 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:14:37,264 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:14:37,264 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:18:51,433 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:18:51,434 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:18:51,434 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:21:54,945 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:21:54,946 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:21:54,947 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:23:22,231 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:23:22,232 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:23:22,233 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:23:58,529 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:23:58,529 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:23:58,530 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:23:58,681 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:23:58,683 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:23:58,684 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:25:39,508 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:25:39,509 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:25:39,509 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:25:55,381 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:25:55,381 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:25:55,382 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:29:18,304 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:29:18,304 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:29:18,304 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:29:45,149 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:29:45,151 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:29:45,151 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:29:45,274 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:29:45,274 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:29:45,275 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:39:44,918 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:39:44,919 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:39:44,919 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:52:03,471 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:52:03,472 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:52:03,474 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:52:03,633 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:52:03,634 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:52:03,635 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:54:34,936 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:54:34,937 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:54:34,937 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:55:19,131 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:55:19,132 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:55:19,132 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:56:16,026 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:56:16,027 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 15:56:16,027 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:02:15,794 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:02:15,795 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:02:15,795 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:02:22,776 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:02:22,777 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:02:22,777 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:10:40,353 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:10:40,353 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:10:40,353 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:10:40,779 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:10:40,780 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:10:40,781 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:11:26,674 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:11:26,675 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:11:26,675 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:11:50,285 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:11:50,286 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:11:50,286 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:11:50,407 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:11:50,408 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:11:50,408 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:13:10,317 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:13:10,318 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:13:10,318 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:13:17,148 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:13:17,148 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:13:17,149 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:14:43,233 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:14:43,234 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:14:43,234 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:14:43,362 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:14:43,363 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:14:43,364 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:15:11,832 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:15:11,833 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:15:11,833 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:15:16,462 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:15:16,463 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:15:16,463 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:15:27,478 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:15:27,479 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com
+2026-01-20 16:15:27,480 [ERROR] ConfigurationRetriever:142 - IOException on connection: sw-center.st.com

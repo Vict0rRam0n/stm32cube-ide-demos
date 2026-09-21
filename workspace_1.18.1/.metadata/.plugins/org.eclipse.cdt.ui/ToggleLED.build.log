@@ -1,0 +1,10 @@
+11:18:54 **** Build of configuration Debug for project ToggleLED ****
+make -j8 all 
+arm-none-eabi-size  ToggleLED.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5200	     12	   1572	   6784	   1a80	ToggleLED.elf
+Finished building: EXTI_ToggleLedOnIT_Init.size.stdout
+ 
+
+11:18:54 Build Finished. 0 errors, 0 warnings. (took 457ms)
+

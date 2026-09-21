@@ -1,0 +1,17 @@
+10:32:29 **** Incremental Build of configuration Debug for project DMA_LinkedList ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32Cube/Repository/STM32Cube_FW_H5_V1.6.0/Projects/NUCLEO-H563ZI/Examples/DMA/DMA_LinkedList/Src/main.c" -mcpu=cortex-m33 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32H563xx -c -I../../Inc -I../../../../../../../Drivers/STM32H5xx_HAL_Driver/Inc -I../../../../../../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I../../../../../../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I../../../../../../../Drivers/CMSIS/Include -I../../../../../../../Drivers/BSP/STM32H5xx_Nucleo -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/main.d" -MT"Application/User/main.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "Application/User/main.o"
+arm-none-eabi-gcc -o "DMA_LinkedList.elf" @"objects.list"   -mcpu=cortex-m33 -T"C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_H5_V1.6.0\Projects\NUCLEO-H563ZI\Examples\DMA\DMA_LinkedList\STM32CubeIDE\STM32H563ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="DMA_LinkedList.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: DMA_LinkedList.elf
+ 
+arm-none-eabi-size  DMA_LinkedList.elf 
+arm-none-eabi-objdump -h -S DMA_LinkedList.elf  > "DMA_LinkedList.list"
+   text	   data	    bss	    dec	    hex	filename
+  25396	     24	   1912	  27332	   6ac4	DMA_LinkedList.elf
+Finished building: default.size.stdout
+ 
+Finished building: DMA_LinkedList.list
+ 
+
+10:32:30 Build Finished. 0 errors, 0 warnings. (took 1s.613ms)
+

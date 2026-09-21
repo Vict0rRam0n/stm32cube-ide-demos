@@ -1,0 +1,12 @@
+08:44:39 **** Incremental Build of configuration Debug for project MX66LM1G45G_STM32U5G9J-DK2 ****
+make -j8 all 
+arm-none-eabi-size  MX66LM1G45G_STM32U5G9J-DK2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  45084	    112	   2400	  47596	   b9ec	MX66LM1G45G_STM32U5G9J-DK2.elf
+Finished building: default.size.stdout
+ 
+cp "MX66LM1G45G_STM32U5G9J-DK2.elf" "../MX66LM1G45G_STM32U5G9J-DK2.stldr"
+ 
+
+08:44:41 Build Finished. 0 errors, 0 warnings. (took 1s.227ms)
+

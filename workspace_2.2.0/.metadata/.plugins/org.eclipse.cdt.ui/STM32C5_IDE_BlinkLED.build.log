@@ -1,0 +1,7 @@
+15:04:36 **** Incremental Build of configuration debug_GCC_NUCLEO-C562RE for project STM32C5_IDE_BlinkLED ****
+cmake --build "build\\debug_GCC_NUCLEO-C562RE" 
+[1/2] Building C object CMakeFiles/STM32C5_CubeIDE_BlinkLED.dir/main.c.obj
+[2/2] Linking C executable STM32C5_CubeIDE_BlinkLED.elf
+
+15:04:38 Build Finished. 0 errors, 0 warnings. (took 2s.110ms)
+

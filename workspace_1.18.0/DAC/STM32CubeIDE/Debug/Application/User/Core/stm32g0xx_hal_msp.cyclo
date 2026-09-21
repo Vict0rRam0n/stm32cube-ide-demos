@@ -1,0 +1,5 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DAC/Core/Src/stm32g0xx_hal_msp.c:63:6:HAL_MspInit	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DAC/Core/Src/stm32g0xx_hal_msp.c:90:6:HAL_DAC_MspInit	2
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DAC/Core/Src/stm32g0xx_hal_msp.c:124:6:HAL_DAC_MspDeInit	2
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DAC/Core/Src/stm32g0xx_hal_msp.c:152:6:HAL_UART_MspInit	3
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DAC/Core/Src/stm32g0xx_hal_msp.c:200:6:HAL_UART_MspDeInit	2

@@ -1,0 +1,17 @@
+11:05:06 **** Incremental Build of configuration Debug for project STM32F4_USB_CDC ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32F4_USB_CDC/Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F429xx -c -I../../USB_DEVICE/App -I../../USB_DEVICE/Target -I../../Core/Inc -I../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../Drivers/CMSIS/Include -I../../Middlewares/ST/STM32_USB_Device_Library/Class/HID/Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/Core/main.d" -MT"Application/User/Core/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Application/User/Core/main.o"
+arm-none-eabi-gcc -o "STM32F4_USB_CDC.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\aliagavi\STM32CubeIDE\workspace_2.1.1\STM32F4_USB_CDC\STM32CubeIDE\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32F4_USB_CDC.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: STM32F4_USB_CDC.elf
+ 
+arm-none-eabi-size  STM32F4_USB_CDC.elf 
+arm-none-eabi-objdump -h -S STM32F4_USB_CDC.elf  > "STM32F4_USB_CDC.list"
+   text	   data	    bss	    dec	    hex	filename
+  26368	    284	   5116	  31768	   7c18	STM32F4_USB_CDC.elf
+Finished building: default.size.stdout
+ 
+Finished building: STM32F4_USB_CDC.list
+ 
+
+11:05:12 Build Finished. 0 errors, 0 warnings. (took 6s.216ms)
+

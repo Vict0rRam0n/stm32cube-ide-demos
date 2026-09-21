@@ -1,0 +1,7 @@
+16:52:50 **** Incremental Build of configuration Debug for project STM32WBA55CG_USART_GPDMA_WakeupFromStop1_2 ****
+make -j8 all 
+make: *** No rule to make target 'C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_WakeupFromStop1_2/Src/system_stm32wbaxx.c', needed by 'Drivers/CMSIS/system_stm32wbaxx.o'.  Stop.
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+16:52:50 Build Failed. 1 errors, 0 warnings. (took 287ms)
+

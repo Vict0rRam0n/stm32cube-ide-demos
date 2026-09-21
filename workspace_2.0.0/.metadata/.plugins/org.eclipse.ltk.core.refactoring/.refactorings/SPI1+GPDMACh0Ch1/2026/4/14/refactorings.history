@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SPI1+GPDMACh0Ch1/Core/Src/main2.c&apos; to &apos;main2.txt&apos;" description="Rename resource &apos;main2.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Core/Src/main2.c" name="main2.txt" stamp="1775050188603" updateReferences="true"/>
+</session>

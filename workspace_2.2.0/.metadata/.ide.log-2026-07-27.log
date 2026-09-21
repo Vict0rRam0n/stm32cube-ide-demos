@@ -1,0 +1,17 @@
+2026-07-27 09:59:23,474 [INFO] Activator:177 - 
+
+
+2026-07-27 09:59:23,480 [INFO] Activator:178 - !SESSION log4j initialized
+2026-07-27 09:59:32,270 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2026-07-27 13:48:34,526 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 13:50:32,324 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 13:52:25,778 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 13:53:16,743 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 13:54:01,332 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 14:46:30,032 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 14:46:40,699 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 14:48:05,896 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 14:55:32,173 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 15:01:47,018 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 15:03:16,932 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE
+2026-07-27 15:04:36,252 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] Updating builder args for config debug_GCC_NUCLEO-C562RE to buildDir=build\debug_GCC_NUCLEO-C562RE

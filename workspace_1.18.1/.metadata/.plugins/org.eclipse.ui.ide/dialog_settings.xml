@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\aliagavi\stm32ai-modelzoo-services-main\application_code\semantic_segmentation\STM32N6\Application\STM32N6570-DK\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\stm32ai-modelzoo-services-main\application_code\object_detection\STM32N6\Application\STM32N6570-DK\STM32CubeIDE"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+		<section name="ExternalProjectImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="706"/>
+			<item key="DIALOG_Y_ORIGIN" value="18"/>
+			<item key="DIALOG_WIDTH" value="525"/>
+			<item key="DIALOG_HEIGHT" value="710"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\N6DK_COREFoundation_Blinky_IT\N6DK_COREFoundation_Blinky\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\Downloads\N6DK_COREFoundation_Blinky_IT\N6DK_COREFoundation_Blinky\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\STM32WBA55CG_USART_WakeUpFromStop\PWR_STOP1\PWR_STOP1\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\STM32WBA55CG_USART_GPDMA_WakeupFromStop1\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\USART_Communication_TxRx_DMA_Init\USART_Communication_TxRx_DMA_Init\USART_Communication_TxRx_DMA_Init\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\USART_Communication_TxRx_DMA_Init\USART_Communication_TxRx_DMA_Init\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\PWR_EnterStopMode"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\USART_Communication_TxRx_DMA_Init\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\STM32WBA55CG_USART_WakeUpFromStop\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\STM32WBA55CG_USART_WakeUpFromStop"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\USART_WakeUpFromStop_Init\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\PWR_STOP1\PWR_STOP1\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\PWR_STOP1"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\STM32G0_GPIOToggle\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\STM32N6_HandsOn\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\STM32N6_HandsOn"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\BOR_LVL3_G031"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\MX66LM1G45G\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\MX66LM1G45G"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_U5_V1.7.0\Projects\STM32U5G9J-DK2\Examples\GPIO\GPIO_IOToggle\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_U5_V1.7.0\Projects\STM32U5G9J-DK2\Examples\GPIO\GPIO_IOToggle"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.1.1\Projects\STM32N6570-DK\Templates\Template_FSBL_XIP"/>
+			<item value="C:\Users\aliagavi\Downloads\BOR_LVL3_G031"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.1.1\Projects\STM32N6570-DK\Examples\PWR\PWR_STANDBY\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.1.1\Projects\STM32N6570-DK\Templates\Template_FSBL_XIP\STM32CubeIDE"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="8"/>
+			<item key="DIALOG_Y_ORIGIN" value="8"/>
+			<item key="DIALOG_WIDTH" value="1920"/>
+			<item key="DIALOG_HEIGHT" value="1032"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

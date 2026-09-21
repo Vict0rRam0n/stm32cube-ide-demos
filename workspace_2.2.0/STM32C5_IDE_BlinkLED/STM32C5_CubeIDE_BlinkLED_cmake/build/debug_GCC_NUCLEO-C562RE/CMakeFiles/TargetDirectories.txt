@@ -1,0 +1,15 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/CMakeFiles/STM32C5_CubeIDE_BlinkLED.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/CMakeFiles/edit_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/CMakeFiles/rebuild_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/arch/cmsis/CMakeFiles/edit_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/arch/cmsis/CMakeFiles/rebuild_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/stm32c5xx_dfp/CMakeFiles/edit_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/stm32c5xx_dfp/CMakeFiles/rebuild_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/stm32c5xx_drivers/CMakeFiles/edit_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/stm32c5xx_drivers/CMakeFiles/rebuild_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/utilities/syscalls/CMakeFiles/edit_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/utilities/syscalls/CMakeFiles/rebuild_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/generated/hal/CMakeFiles/edit_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/generated/hal/CMakeFiles/rebuild_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/generated/utilities/CMakeFiles/edit_cache.dir
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/build/debug_GCC_NUCLEO-C562RE/generated/utilities/CMakeFiles/rebuild_cache.dir

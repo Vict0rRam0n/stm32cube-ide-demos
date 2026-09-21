@@ -1,0 +1,10 @@
+10:23:11 **** Build of configuration Debug for project SLEEP_MODE ****
+make -j8 all 
+arm-none-eabi-size  SLEEP_MODE.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6096	     12	   1572	   7680	   1e00	SLEEP_MODE.elf
+Finished building: default.size.stdout
+ 
+
+10:23:12 Build Finished. 0 errors, 0 warnings. (took 575ms)
+

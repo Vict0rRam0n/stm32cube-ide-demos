@@ -1,0 +1,10 @@
+10:22:56 **** Build of configuration Debug for project ACCE_CUBE_MEMS ****
+make -j8 all 
+arm-none-eabi-size  ACCE_CUBE_MEMS.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33456	    104	   2216	  35776	   8bc0	ACCE_CUBE_MEMS.elf
+Finished building: default.size.stdout
+ 
+
+10:22:57 Build Finished. 0 errors, 0 warnings. (took 720ms)
+

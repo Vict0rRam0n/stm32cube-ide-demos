@@ -1,0 +1,17 @@
+15:28:40 **** Incremental Build of configuration Debug for project USART_Communication_TxRx_DMA_Init ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32Cube/Example/STM32WBA55CG_USART_GPDMA_WakeupFromStop1/Src/main.c" -mcpu=cortex-m33 -std=gnu11 -g3 -DDEBUG -DUSE_FULL_LL_DRIVER -DHSE_VALUE=32000000 -DHSE_STARTUP_TIMEOUT=100 -DLSE_STARTUP_TIMEOUT=5000 -DLSE_VALUE=32768 -DEXTERNALSAI1_CLOCK_VALUE=48000 -DHSI_VALUE=16000000 -DLSI_VALUE=32000 -DVDD_VALUE=3300 -DPREFETCH_ENABLE=1 -DSTM32WBA55xx -c -I../../Inc -I../../Drivers/STM32WBAxx_HAL_Driver/Inc -I../../Drivers/CMSIS/Device/ST/STM32WBAxx/Include -I../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/main.d" -MT"Application/User/main.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "Application/User/main.o"
+arm-none-eabi-gcc -o "USART_Communication_TxRx_DMA_Init.elf" @"objects.list"   -mcpu=cortex-m33 -T"C:\Users\aliagavi\STM32Cube\Example\STM32WBA55CG_USART_GPDMA_WakeupFromStop1\STM32CubeIDE\STM32WBA55CGUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="USART_Communication_TxRx_DMA_Init.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: USART_Communication_TxRx_DMA_Init.elf
+ 
+arm-none-eabi-size  USART_Communication_TxRx_DMA_Init.elf 
+arm-none-eabi-objdump -h -S USART_Communication_TxRx_DMA_Init.elf  > "USART_Communication_TxRx_DMA_Init.list"
+   text	   data	    bss	    dec	    hex	filename
+   9704	      8	   1584	  11296	   2c20	USART_Communication_TxRx_DMA_Init.elf
+Finished building: default.size.stdout
+ 
+Finished building: USART_Communication_TxRx_DMA_Init.list
+ 
+
+15:28:42 Build Finished. 0 errors, 0 warnings. (took 1s.900ms)
+

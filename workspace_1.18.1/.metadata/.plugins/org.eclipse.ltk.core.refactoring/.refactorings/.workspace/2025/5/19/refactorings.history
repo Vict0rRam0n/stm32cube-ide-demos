@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Template_FSBL_XIP_ExtMemLoader/postbuild.sh&apos;" deleteContents="false" description="Delete resource &apos;Template_FSBL_XIP_ExtMemLoader/postbuild.sh&apos;" element1="/Template_FSBL_XIP_ExtMemLoader/postbuild.sh" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1746710239760"/>
+</session>

@@ -1,0 +1,4 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/stm32c5xx_drivers/ll/stm32c5xx_ll_bus.h:878:22:LL_AHB2_GRP1_EnableClock	48	static,ignoring_inline_asm
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/stm32c5xx_drivers/hal/stm32c5xx_hal_rcc.h:1355:22:HAL_RCC_GPIOA_EnableClock	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/generated/hal/mx_gpio_default.c:30:17:mx_gpio_default_init	16	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/generated/hal/mx_gpio_default.c:54:17:mx_gpio_default_deinit	8	static

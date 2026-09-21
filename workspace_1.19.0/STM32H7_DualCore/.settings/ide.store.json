@@ -1,0 +1,5 @@
+{
+  "board": "NUCLEO-H745ZI-Q",
+  "device": "STM32H745ZIT3",
+  "toolchain": "GCC"
+}

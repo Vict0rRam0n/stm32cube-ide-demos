@@ -1,0 +1,16 @@
+09:35:09 **** Incremental Build of configuration Debug for project DualFlashBoot ****
+make -j8 all 
+arm-none-eabi-gcc -o "DualFlashBoot.elf" @"objects.list"   -mcpu=cortex-m0plus -T"C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.0\DualFlashBoot\STM32G0B1RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="DualFlashBoot.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: DualFlashBoot.elf
+ 
+arm-none-eabi-size  DualFlashBoot.elf 
+arm-none-eabi-objdump -h -S DualFlashBoot.elf  > "DualFlashBoot.list"
+   text	   data	    bss	    dec	    hex	filename
+   5596	     12	   3108	   8716	   220c	DualFlashBoot.elf
+Finished building: default.size.stdout
+ 
+Finished building: DualFlashBoot.list
+ 
+
+09:35:10 Build Finished. 0 errors, 0 warnings. (took 853ms)
+

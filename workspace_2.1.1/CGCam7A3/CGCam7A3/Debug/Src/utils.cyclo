@@ -1,0 +1,8 @@
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:278:22:LL_GPIO_SetPinMode	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:884:22:LL_GPIO_SetOutputPin	1
+../Drivers/STM32H7xx_HAL_Driver/Inc/stm32h7xx_ll_gpio.h:913:22:LL_GPIO_ResetOutputPin	1
+../Src/utils.c:11:6:SystemClock_Config	5
+../Src/utils.c:95:6:SAI2_Init	3
+../Src/utils.c:159:6:USART10_DBG_Init	2
+../Src/utils.c:187:6:GPIO_Init	1
+../Src/utils.c:221:1:__io_putchar	2

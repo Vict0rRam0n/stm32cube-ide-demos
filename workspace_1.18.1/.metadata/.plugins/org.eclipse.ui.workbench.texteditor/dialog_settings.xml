@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="true"/>
+	<list key="searchhistory">
+		<item value="rx"/>
+		<item value="setoutputpin"/>
+		<item value="rcc"/>
+		<item value="disable"/>
+		<item value="enablechannel"/>
+		<item value="setblk"/>
+		<item value="set"/>
+		<item value="GPIO_InitStruct.Pull = LL_GPIO_P"/>
+		<item value="stop"/>
+		<item value="wakeup"/>
+		<item value="ubtra"/>
+		<item value="idle"/>
+		<item value="handler"/>
+		<item value="trans"/>
+		<item value="atx"/>
+	</list>
+	<list key="replacehistory">
+		<item value="LD1"/>
+		<item value="huart1"/>
+		<item value="&gt;RAM_D1 : Loader"/>
+	</list>
+</section>

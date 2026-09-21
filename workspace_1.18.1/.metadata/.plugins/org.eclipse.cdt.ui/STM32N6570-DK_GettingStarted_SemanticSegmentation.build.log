@@ -1,0 +1,10 @@
+08:44:53 **** Incremental Build of configuration Debug for project STM32N6570-DK_GettingStarted_SemanticSegmentation ****
+make -j8 all 
+arm-none-eabi-size  STM32N6570-DK_GettingStarted_SemanticSegmentation.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 408900	    904	2436664	2846468	 2b6f04	STM32N6570-DK_GettingStarted_SemanticSegmentation.elf
+Finished building: default.size.stdout
+ 
+
+08:44:54 Build Finished. 0 errors, 0 warnings. (took 1s.344ms)
+

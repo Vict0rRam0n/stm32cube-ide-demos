@@ -1,0 +1,17 @@
+16:00:02 **** Incremental Build of configuration Debug for project STM32WBA55CG_USART_GPDMA_Example ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/main.c" -mcpu=cortex-m33 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32WBA55xx -c -I../../Inc -IC:/Users/aliagavi/STM32Cube/Repository/STM32Cube_FW_WBA_V1.7.0/Drivers/STM32WBAxx_HAL_Driver/Inc -IC:/Users/aliagavi/STM32Cube/Repository/STM32Cube_FW_WBA_V1.7.0/Drivers/STM32WBAxx_HAL_Driver/Inc/Legacy -IC:/Users/aliagavi/STM32Cube/Repository/STM32Cube_FW_WBA_V1.7.0/Drivers/CMSIS/Device/ST/STM32WBAxx/Include -IC:/Users/aliagavi/STM32Cube/Repository/STM32Cube_FW_WBA_V1.7.0/Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/main.d" -MT"Application/User/main.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "Application/User/main.o"
+arm-none-eabi-gcc -o "STM32WBA55CG_USART_GPDMA_Example.elf" @"objects.list"   -mcpu=cortex-m33 -T"C:\Users\aliagavi\STM32CubeIDE\workspace_1.19.0\STM32WBA55CG_USART_GPDMA_Wakeup_Example\STM32CubeIDE\STM32WBA55CGUX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32WBA55CG_USART_GPDMA_Example.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: STM32WBA55CG_USART_GPDMA_Example.elf
+ 
+arm-none-eabi-size  STM32WBA55CG_USART_GPDMA_Example.elf 
+arm-none-eabi-objdump -h -S STM32WBA55CG_USART_GPDMA_Example.elf  > "STM32WBA55CG_USART_GPDMA_Example.list"
+   text	   data	    bss	    dec	    hex	filename
+  19856	     16	   1856	  21728	   54e0	STM32WBA55CG_USART_GPDMA_Example.elf
+Finished building: default.size.stdout
+ 
+Finished building: STM32WBA55CG_USART_GPDMA_Example.list
+ 
+
+16:00:04 Build Finished. 0 errors, 0 warnings. (took 2s.830ms)
+

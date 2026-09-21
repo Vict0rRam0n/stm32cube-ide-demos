@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.1.1\STM32F4_USB_HID_Mouse"/>
+			<item value="C:\Users\aliagavi\OneDrive - STMicroelectronics\Documents\GitHub\STM32N6_FSBL_Modes\PSRAM\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.1.1\CGCam7A3\CGCam7A3"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.1.1\XSPI_PSRAM_MemoryMapped\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.1.1\STM32N6_FSBL_PSRAM\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.1.1\SPI1+GPDMACh0Ch1\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.1.1\SPI1+GPDMACh0Ch1"/>
+			<item value="C:\Users\aliagavi\.stm32cubeaistudio\workspace\STM32N6_AIStudio_Instance_Segmentation\.ai\run\run-1\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32H747_Bootloader\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32H747_Bootloader"/>
+			<item value="C:\Users\aliagavi\Downloads\SPI1+GPDMACh0Ch1Tim15 (1)\SPI1+GPDMACh0Ch1Tim15\SPI1+GPDMACh0Ch1"/>
+			<item value="C:\Users\aliagavi\Downloads\SPI1+GPDMACh0Ch1Tim15\SPI1+GPDMACh0Ch1Tim15\SPI1+GPDMACh0Ch1"/>
+			<item value="C:\Users\aliagavi\Downloads\SPI1+GPDMACh0Ch1Tim15 (1)"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.1.1\STM32WBA55CG_USART_GPDMA_Wakeup_TX_RX\STM32CubeIDE"/>
+		</list>
+		<section name="STSmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="1025"/>
+			<item key="DIALOG_Y_ORIGIN" value="477"/>
+			<item key="DIALOG_WIDTH" value="885"/>
+			<item key="DIALOG_HEIGHT" value="577"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="846"/>
+			<item key="DIALOG_Y_ORIGIN" value="285"/>
+			<item key="DIALOG_WIDTH" value="885"/>
+			<item key="DIALOG_HEIGHT" value="629"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

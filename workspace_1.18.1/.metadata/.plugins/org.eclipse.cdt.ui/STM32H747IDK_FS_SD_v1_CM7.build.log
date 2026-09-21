@@ -1,0 +1,10 @@
+08:44:48 **** Incremental Build of configuration Debug for project STM32H747IDK_FS_SD_v1_CM7 ****
+make -j8 all 
+arm-none-eabi-size  STM32H747IDK_FS_SD_v1_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+  64320	    108	   6072	  70500	  11364	STM32H747IDK_FS_SD_v1_CM7.elf
+Finished building: default.size.stdout
+ 
+
+08:44:49 Build Finished. 0 errors, 0 warnings. (took 888ms)
+

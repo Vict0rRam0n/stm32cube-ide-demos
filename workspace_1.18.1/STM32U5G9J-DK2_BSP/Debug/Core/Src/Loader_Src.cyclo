@@ -1,0 +1,14 @@
+../Core/Src/Loader_Src.c:136:19:HAL_InitTick	2
+../Core/Src/Loader_Src.c:162:10:HAL_GetTick	2
+../Core/Src/Loader_Src.c:225:5:main	6
+../Core/Src/Loader_Src.c:279:10:Init	6
+../Core/Src/Loader_Src.c:367:10:MassErase	6
+../Core/Src/Loader_Src.c:421:10:Write	5
+../Core/Src/Loader_Src.c:476:10:SectorErase	8
+../Core/Src/Loader_Src.c:548:10:CheckSum	14
+../Core/Src/Loader_Src.c:639:10:Verify	5
+../Core/Src/Loader_Src.c:701:13:SystemClock_Config	3
+../Core/Src/Loader_Src.c:757:1:__io_putchar	1
+../Core/Src/Loader_Src.c:786:19:COM_Init	1
+../Core/Src/Loader_Src.c:822:6:HAL_UART_MspInit	3
+../Core/Src/Loader_Src.c:869:6:HAL_UART_MspDeInit	2

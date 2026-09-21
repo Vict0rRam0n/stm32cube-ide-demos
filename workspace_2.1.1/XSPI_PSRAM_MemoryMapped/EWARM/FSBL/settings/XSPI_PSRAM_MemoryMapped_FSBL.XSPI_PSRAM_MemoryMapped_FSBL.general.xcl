@@ -1,0 +1,19 @@
+C:\iar\ewarm-9.70.1\arm\bin\armproc.dll
+
+ C:\iar\ewarm-9.70.1\arm\bin\armstlink.dll
+
+ C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\XSPI_PSRAM_MemoryMapped_FSBL\Exe\XSPI_PSRAM_MemoryMapped_FSBL.out
+
+ --plugin=C:\iar\ewarm-9.70.1\arm\bin\armLibSupportUniversal.dll
+
+ --device_macro=C:\iar\ewarm-9.70.1\arm/config/debugger/ST/STM32N6xx_DBG.dmac
+
+ --device_macro=C:\iar\ewarm-9.70.1\arm/config/debugger/ST/STM32N6xx_Trace.dmac
+
+ --macro=C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_N6_V1.3.0\Projects\STM32N6570-DK\Examples\XSPI\XSPI_PSRAM_MemoryMapped\EWARM\FSBL\setup.mac
+
+ --flash_loader=C:\iar\ewarm-9.70.1\arm/config/flashloader/ST/FlashSTM32N6_XSPI.board
+
+ 
+
+

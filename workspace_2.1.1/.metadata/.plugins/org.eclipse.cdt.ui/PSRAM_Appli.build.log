@@ -1,0 +1,74 @@
+10:29:47 **** Build of configuration Debug for project PSRAM_Appli ****
+make -j8 all 
+arm-none-eabi-size  PSRAM_Appli.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5032	     12	   2604	   7648	   1de0	PSRAM_Appli.elf
+Finished building: default.size.stdout
+ 
+cd "C:/Users/aliagavi/OneDrive - STMicroelectronics/Documents/GitHub/STM32N6_FSBL_Modes/PSRAM/STM32CubeIDE/Appli/Debug"
+echo y | "C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_SigningTool_CLI.exe" -bin "PSRAM_Appli.bin" -nk -of 0x80000000 -t fsbl -o "PSRAM_Appli-Trusted.bin" -hv 2.3 -dump "PSRAM_Appli-Trusted.bin" -align
+      -------------------------------------------------------------------
+                          STM32 Signing Tool v2.22.0                   
+      -------------------------------------------------------------------
+
+Do you want to replace this file: PSRAM_Appli-Trusted.bin ? (y/n)
+[Header v2.3] Align the payload to the 0x400 offset by adding padding bytes at the beginning of the payload.
+Adding head padding bytes for payload with header v2.3
+Header version 2.3 preparation... 
+Extracting Entry point value from the input file...
+Entry point value : 0x91000ae1
+The headred image file generated successfully: PSRAM_Appli-Trusted.bin
+
+Header description:
+
+    Magic: 0x53544d32
+    Signature: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+               00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+               00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+    Checksum: 0x73a9d
+    Header version: 0x20300
+    Size: 0x1580
+    Load address: 0xffffffff
+    Entry point: 0x91000ae1
+    Image version: 0x0
+    Extension: 0x80000000
+
+Pad header detected:
+    Type: 0x5354ffff
+    Size: 0x1a0
+    Padding values: 92 71 f3 2e 6c 76 0d a7 2c 8e a0 0c af bf 68 1c 8a 19 70 9d fb ad 16 3e ac fc 7b 1a 24 b6 db 
+
+                    f3 26 5c 7a 3e 87 80 de 80 b1 ea f3 34 c1 e1 26 5c 56 60 60 34 df 78 df 9a 70 40 bc ff 9c 4b 
+
+                    ea 14 90 8c ef 6e 93 f3 ab c2 14 47 1c e8 57 2e 95 45 3f 2a 8b 74 ed 7e f9 7b 6d 7c 45 cf 86 
+
+                    90 a7 cc 58 58 ac f8 55 ae 74 32 49 71 23 a6 0e 76 55 56 33 3b 22 b0 0c 91 b6 cf b2 44 82 d7 
+
+                    d8 9c 25 36 23 e7 a2 b6 88 5d cb c4 b5 9c 78 49 21 7a 8a 1d 03 43 9b d5 1a bd 37 46 82 b9 b0 
+
+                    1a 20 56 06 4f 0b 41 3c 89 23 40 b4 74 7c 21 28 64 54 4c 24 bb 37 94 3a a0 dd 30 10 29 b0 1d 
+
+                    99 3b 4b 06 eb 03 fb 4a 9d 0f 4b 63 48 15 6b 92 00 74 11 37 aa f5 01 30 9f 34 8f b7 b0 b4 f5 
+
+                    23 67 e8 89 bb 81 bb b1 76 b5 22 07 14 2a fd 8a 1d 8b 98 76 d1 d0 a4 89 28 ef 8f fc 4d c1 07 
+
+                    60 5e e4 85 de 25 f8 61 af 48 cc 12 40 90 67 1f 98 2b b6 2e 3d f1 84 96 b9 a4 c4 af 9c e2 b6 
+
+                    d0 8a 03 6c ca 16 70 21 36 4e 43 88 11 bf d6 97 dc c9 07 a8 17 88 b1 1f 10 33 c0 a7 42 ed 64 
+
+                    2e 2c be 0c 38 32 1d 1e cd 55 b7 60 b0 b3 c7 0a 6c 0f e0 6f 0d dc dc 14 53 51 5d 95 b5 7c 07 
+
+                    a9 0b 8c 52 cf 39 fc 54 c0 84 a7 74 6d 05 0f 53 86 41 94 55 df 89 a6 75 56 5f 18 a0 4a ff 4d 
+
+                    79 c4 ff e6 1d 1c 04 15 
+
+Post header 2.3 information :
+    Binary type: 0x10
+    Non authenticated payload length: 0x0
+    Non authenticated payload hash: 0x0
+
+
+ 
+
+10:29:50 Build Finished. 0 errors, 0 warnings. (took 2s.571ms)
+

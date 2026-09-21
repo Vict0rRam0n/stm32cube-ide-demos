@@ -1,0 +1,101 @@
+10:16:06 **** Build of configuration Debug for project STM32N6_FSBL_PSRAM_Appli ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_cortex.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_cortex.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_cortex.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_cortex.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_dma.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_dma.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_dma.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_dma.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_dma_ex.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_dma_ex.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_dma_ex.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_dma_ex.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_exti.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_exti.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_exti.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_exti.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_gpio.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_gpio.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_gpio.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_gpio.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_pwr.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_pwr.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_pwr.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_pwr.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_pwr_ex.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_pwr_ex.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_pwr_ex.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_pwr_ex.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_rcc.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_rcc.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_rcc.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_rcc.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_rcc_ex.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_rcc_ex.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_rcc_ex.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_rcc_ex.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Drivers/STM32N6xx_HAL_Driver/Src/stm32n6xx_hal_rif.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_rif.d" -MT"Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_rif.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/STM32N6xx_HAL_Driver/stm32n6xx_hal_rif.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Appli/Core/Src/system_stm32n6xx_s.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Drivers/CMSIS/system_stm32n6xx_s.d" -MT"Drivers/CMSIS/system_stm32n6xx_s.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Drivers/CMSIS/system_stm32n6xx_s.o"
+arm-none-eabi-gcc -mcpu=cortex-m55 -g3 -DDEBUG -c -x assembler-with-cpp -MMD -MP -MF"Application/User/Startup/startup_stm32n657x0hxq.d" -MT"Application/User/Startup/startup_stm32n657x0hxq.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Application/User/Startup/startup_stm32n657x0hxq.o" "../Application/User/Startup/startup_stm32n657x0hxq.s"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Appli/Core/Src/main.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Application/User/Core/main.d" -MT"Application/User/Core/main.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Application/User/Core/main.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Appli/Core/Src/secure_nsc.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Application/User/Core/secure_nsc.d" -MT"Application/User/Core/secure_nsc.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Application/User/Core/secure_nsc.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Appli/Core/Src/stm32n6xx_hal_msp.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Application/User/Core/stm32n6xx_hal_msp.d" -MT"Application/User/Core/stm32n6xx_hal_msp.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Application/User/Core/stm32n6xx_hal_msp.o"
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/Appli/Core/Src/stm32n6xx_it.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Application/User/Core/stm32n6xx_it.d" -MT"Application/User/Core/stm32n6xx_it.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Application/User/Core/stm32n6xx_it.o"
+arm-none-eabi-gcc "../Application/User/Core/syscalls.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Application/User/Core/syscalls.d" -MT"Application/User/Core/syscalls.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Application/User/Core/syscalls.o"
+arm-none-eabi-gcc "../Application/User/Core/sysmem.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Application/User/Core/sysmem.d" -MT"Application/User/Core/sysmem.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Application/User/Core/sysmem.o"
+arm-none-eabi-gcc -o "STM32N6_FSBL_PSRAM_Appli.elf" @"objects.list"   -mcpu=cortex-m55 -T"C:\Users\aliagavi\STM32CubeIDE\workspace_2.1.1\STM32N6_FSBL_PSRAM\STM32CubeIDE\Appli\STM32N657X0HXQ_ROMxspi1.ld" --specs=nosys.specs -Wl,-Map="STM32N6_FSBL_PSRAM_Appli.map" -Wl,--gc-sections -static -Wl,--cmse-implib -Wl,--out-implib=./secure_nsclib.o --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: STM32N6_FSBL_PSRAM_Appli.elf
+ 
+arm-none-eabi-size  STM32N6_FSBL_PSRAM_Appli.elf 
+arm-none-eabi-objdump -h -S STM32N6_FSBL_PSRAM_Appli.elf  > "STM32N6_FSBL_PSRAM_Appli.list"
+arm-none-eabi-objcopy  -O binary STM32N6_FSBL_PSRAM_Appli.elf  "STM32N6_FSBL_PSRAM_Appli.bin"
+   text	   data	    bss	    dec	    hex	filename
+   5024	     12	   2604	   7640	   1dd8	STM32N6_FSBL_PSRAM_Appli.elf
+Finished building: default.size.stdout
+ 
+Finished building: STM32N6_FSBL_PSRAM_Appli.bin
+Finished building: STM32N6_FSBL_PSRAM_Appli.list
+ 
+ 
+cd "C:/Users/aliagavi/STM32CubeIDE/workspace_2.1.1/STM32N6_FSBL_PSRAM/STM32CubeIDE/Appli/Debug"
+echo y | "C:\Program Files\STMicroelectronics\STM32Cube\STM32CubeProgrammer\bin\STM32_SigningTool_CLI.exe" -bin "STM32N6_FSBL_PSRAM_Appli.bin" -nk -of 0x80000000 -t fsbl -o "STM32N6_FSBL_PSRAM_Appli-Trusted.bin" -hv 2.3 -dump "STM32N6_FSBL_PSRAM_Appli-Trusted.bin"
+      -------------------------------------------------------------------
+                          STM32 Signing Tool v2.22.0                   
+      -------------------------------------------------------------------
+
+Do you want to replace this file: STM32N6_FSBL_PSRAM_Appli-Trusted.bin ? (y/n)
+[Header v2.3] Do not align the payload to the 0x400 offset, No padding bytes at the beginning of the payload.
+Header version 2.3 preparation... 
+Extracting Entry point value from the input file...
+Entry point value : 0x90100b35
+The headred image file generated successfully: STM32N6_FSBL_PSRAM_Appli-Trusted.bin
+
+Header description:
+
+    Magic: 0x53544d32
+    Signature: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+               00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+               00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+    Checksum: 0x73c58
+    Header version: 0x20300
+    Size: 0x13c0
+    Load address: 0xffffffff
+    Entry point: 0x90100b35
+    Image version: 0x0
+    Extension: 0x80000000
+
+Pad header detected:
+    Type: 0x5354ffff
+    Size: 0x1a0
+    Padding values: 60 47 76 cc 3a 1d 75 1d 89 c5 fe 32 78 52 7b 08 c9 ce 06 fc 0e df e7 4d 61 5a 2d 07 42 b7 03 
+
+                    e8 6e 37 6f 2d d8 91 98 e7 e7 f2 fe 69 46 b0 05 17 0e 90 6a fe 17 6b f0 a3 df 4b 8b 83 7e 92 
+
+                    43 6c e8 bd cc 80 e7 50 80 a4 22 dc a3 78 54 5b 32 e4 7a 13 68 96 f3 19 f2 80 b0 ec c5 1a f9 
+
+                    85 d7 b2 86 43 54 1c fe 81 1f 40 06 8d 0c 07 b7 49 80 a7 47 b2 37 40 4b c7 64 c6 55 33 7d 8d 
+
+                    61 37 01 84 0c e3 2d e6 ec ca f4 83 25 7f c4 b8 b7 c4 a1 c4 ac c2 06 01 99 1a 2a 5a 3d c5 fb 
+
+                    3d 5d 1e 5e 3c 20 34 26 b5 9e 21 c0 3d f2 27 e1 53 6a 49 02 cf df 51 34 55 5b ce c8 a3 21 b3 
+
+                    f6 1c 5f 3e 60 4d c0 10 a8 3e 99 43 38 ea df 19 82 98 6c af d2 a7 c6 18 d1 56 a7 4a 1f 2c ae 
+
+                    92 4c 5a ba 26 03 23 35 b3 d2 95 4c 0c d0 7e 7b 33 96 80 84 dd 1f 49 60 4f fa 48 49 a2 45 c7 
+
+                    15 92 ba c7 96 d0 be e2 60 85 0f 4a 17 bd f0 50 7b 47 94 e3 2a 41 6f 27 8a c2 7b 82 2f 35 0b 
+
+                    15 ed 91 41 5a db ad 8a 35 60 8d 6a 2a ea 55 b5 0d 2d 7e 65 b4 f1 46 73 16 bf 40 f7 c6 04 a8 
+
+                    f0 84 ee 9f c6 05 6d d5 cd 92 ad 55 88 d4 56 5c d5 c0 cd c4 8e 3b 74 62 b2 e2 59 09 e6 7d 2d 
+
+                    31 49 49 70 fb 81 5f ab c8 ab fb b0 50 f2 fa 6d 37 87 57 91 01 89 6b 3c fc 71 e6 18 86 8f 6b 
+
+                    70 93 ea 86 0b 5e 6d 8e 
+
+Post header 2.3 information :
+    Binary type: 0x10
+    Non authenticated payload length: 0x0
+    Non authenticated payload hash: 0x0
+
+
+ 
+
+10:16:20 Build Finished. 0 errors, 0 warnings. (took 14s.139ms)
+

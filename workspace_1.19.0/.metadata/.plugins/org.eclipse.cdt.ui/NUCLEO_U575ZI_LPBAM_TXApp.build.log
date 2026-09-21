@@ -1,0 +1,10 @@
+16:16:54 **** Incremental Build of configuration Debug for project NUCLEO_U575ZI_LPBAM_TXApp ****
+make -j8 all 
+arm-none-eabi-size  NUCLEO_U575ZI_LPBAM_TXApp.elf 
+   text	   data	    bss	    dec	    hex	filename
+  43296	     25	   2900	  46221	   b48d	NUCLEO_U575ZI_LPBAM_TXApp.elf
+Finished building: default.size.stdout
+ 
+
+16:16:55 Build Finished. 0 errors, 0 warnings. (took 458ms)
+

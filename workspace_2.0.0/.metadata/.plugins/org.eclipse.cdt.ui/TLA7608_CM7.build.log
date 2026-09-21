@@ -1,0 +1,10 @@
+10:26:50 **** Incremental Build of configuration Debug for project TLA7608_CM7 ****
+make -j8 all 
+arm-none-eabi-size  TLA7608_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+ 286844	    632	 399152	 686628	  a7a24	TLA7608_CM7.elf
+Finished building: default.size.stdout
+ 
+
+10:26:54 Build Finished. 0 errors, 0 warnings. (took 4s.788ms)
+

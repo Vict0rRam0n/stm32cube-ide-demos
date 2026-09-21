@@ -1,0 +1,20 @@
+18:12:33 **** Incremental Build of configuration Debug for project STM32N6_FEI_XIP_Appli ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32N6_FEI_XIP/Appli/Core/Src/main.c" -mcpu=cortex-m55 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32N657xx -c -I../../../Appli/Core/Inc -I../../../Secure_nsclib -I../../../Drivers/STM32N6xx_HAL_Driver/Inc -I../../../Drivers/CMSIS/Device/ST/STM32N6xx/Include -I../../../Drivers/STM32N6xx_HAL_Driver/Inc/Legacy -I../../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -mcmse -MMD -MP -MF"Application/User/Core/main.d" -MT"Application/User/Core/main.o" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -o "Application/User/Core/main.o"
+arm-none-eabi-gcc -o "STM32N6_FEI_XIP_Appli.elf" @"objects.list"   -mcpu=cortex-m55 -T"C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32N6_FEI_XIP\STM32CubeIDE\Appli\STM32N657X0HXQ_ROMxspi2.ld" --specs=nosys.specs -Wl,-Map="STM32N6_FEI_XIP_Appli.map" -Wl,--gc-sections -static -Wl,--cmse-implib -Wl,--out-implib=./secure_nsclib.o --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: STM32N6_FEI_XIP_Appli.elf
+ 
+arm-none-eabi-size  STM32N6_FEI_XIP_Appli.elf 
+arm-none-eabi-objdump -h -S STM32N6_FEI_XIP_Appli.elf  > "STM32N6_FEI_XIP_Appli.list"
+   text	   data	    bss	    dec	    hex	filename
+   4560	     12	   2604	   7176	   1c08	STM32N6_FEI_XIP_Appli.elf
+arm-none-eabi-objcopy  -O binary STM32N6_FEI_XIP_Appli.elf  "STM32N6_FEI_XIP_Appli.bin"
+Finished building: default.size.stdout
+ 
+Finished building: STM32N6_FEI_XIP_Appli.list
+Finished building: STM32N6_FEI_XIP_Appli.bin
+ 
+ 
+
+18:12:37 Build Finished. 0 errors, 0 warnings. (took 3s.651ms)
+

@@ -1,0 +1,5 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdsa.c:77:21:_nx_crypto_ecdsa_sign	19
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdsa.c:316:21:_nx_crypto_ecdsa_verify	20
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdsa.c:524:22:_nx_crypto_method_ecdsa_init	5
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdsa.c:603:22:_nx_crypto_method_ecdsa_cleanup	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_ecdsa.c:675:21:_nx_crypto_method_ecdsa_operation	27

@@ -1,0 +1,10 @@
+11:50:36 **** Incremental Build of configuration Debug for project I2C_TwoBoards_RestartAdvComIT ****
+make -j8 all 
+arm-none-eabi-size  I2C_TwoBoards_RestartAdvComIT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20304	     12	   1652	  21968	   55d0	I2C_TwoBoards_RestartAdvComIT.elf
+Finished building: default.size.stdout
+ 
+
+11:50:38 Build Finished. 0 errors, 0 warnings. (took 1s.239ms)
+

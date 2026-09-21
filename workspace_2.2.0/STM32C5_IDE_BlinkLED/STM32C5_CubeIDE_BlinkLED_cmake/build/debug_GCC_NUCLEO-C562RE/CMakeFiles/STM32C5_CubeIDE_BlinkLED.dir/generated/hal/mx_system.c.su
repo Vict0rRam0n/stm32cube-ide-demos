@@ -1,0 +1,4 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/generated/hal/mx_system.c:32:17:mx_system_init	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/generated/hal/mx_system.c:122:6:SysTick_Handler	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/generated/hal/mx_system.c:132:24:pre_system_init_hook	4	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.2.0/STM32C5_IDE_BlinkLED/STM32C5_CubeIDE_BlinkLED_cmake/generated/hal/mx_system.c:144:24:post_system_init_hook	4	static

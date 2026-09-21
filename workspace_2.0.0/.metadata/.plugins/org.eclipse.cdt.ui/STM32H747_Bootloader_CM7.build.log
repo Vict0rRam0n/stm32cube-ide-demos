@@ -1,0 +1,10 @@
+14:01:22 **** Incremental Build of configuration Debug for project STM32H747_Bootloader_CM7 ****
+make -j8 all 
+arm-none-eabi-size  STM32H747_Bootloader_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22924	     16	   1720	  24660	   6054	STM32H747_Bootloader_CM7.elf
+Finished building: default.size.stdout
+ 
+
+14:01:22 Build Finished. 0 errors, 0 warnings. (took 347ms)
+

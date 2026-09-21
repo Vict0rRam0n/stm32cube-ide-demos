@@ -1,0 +1,7 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_uart.c:417:16:ADV_LPBAM_UART_Transmit_SetConfigQ	14
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_uart.c:592:16:ADV_LPBAM_UART_Transmit_SetDataQ	4
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_uart.c:658:16:ADV_LPBAM_UART_Transmit_SetFullQ	17
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_uart.c:871:16:ADV_LPBAM_UART_Receive_SetConfigQ	8
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_uart.c:970:16:ADV_LPBAM_UART_Receive_SetDataQ	4
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_uart.c:1036:16:ADV_LPBAM_UART_Receive_SetFullQ	11
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_uart.c:1164:16:ADV_LPBAM_UART_EnableDMARequests	1

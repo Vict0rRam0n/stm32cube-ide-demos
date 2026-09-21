@@ -1,0 +1,18 @@
+15:25:44 **** Incremental Build of configuration Debug for project STM32U083MCT6_PWM_CH1_CH4_50%DC ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32U083MCT6_PWM_CH1_CH4_50%DC/Core/Src/main.c" -mcpu=cortex-m0plus -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32U083xx -c -I../../Core/Inc -I../../Drivers/STM32U0xx_HAL_Driver/Inc -I../../Drivers/STM32U0xx_HAL_Driver/Inc/Legacy -I../../Drivers/CMSIS/Device/ST/STM32U0xx/Include -I../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/Core/main.d" -MT"Application/User/Core/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Application/User/Core/main.o"
+arm-none-eabi-gcc -o "STM32U083MCT6_PWM_CH1_CH4_50%DC.elf" @"objects.list"   -mcpu=cortex-m0plus -T"C:\Users\aliagavi\STM32CubeIDE\workspace_1.19.0\STM32U083MCT6_PWM_CH1_CH4_50%DC\STM32CubeIDE\STM32U083MCTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="STM32U083MCT6_PWM_CH1_CH4_50%DC.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: STM32U083MCT6_PWM_CH1_CH4_50%DC.elf
+ 
+makefile:65: warning: pattern recipe did not update peer target 'STM32U083MCT6_PWM_CH1_CH4_50%DC.map'.
+arm-none-eabi-size  STM32U083MCT6_PWM_CH1_CH4_50%DC.elf 
+arm-none-eabi-objdump -h -S STM32U083MCT6_PWM_CH1_CH4_50%DC.elf  > "STM32U083MCT6_PWM_CH1_CH4_50%DC.list"
+   text	   data	    bss	    dec	    hex	filename
+  11396	     12	   1644	  13052	   32fc	STM32U083MCT6_PWM_CH1_CH4_50%DC.elf
+Finished building: default.size.stdout
+ 
+Finished building: STM32U083MCT6_PWM_CH1_CH4_50%DC.list
+ 
+
+15:25:48 Build Finished. 0 errors, 1 warnings. (took 3s.946ms)
+

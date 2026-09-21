@@ -1,0 +1,10 @@
+10:23:00 **** Build of configuration Debug for project EXTI_ToFlash ****
+make -j8 all 
+arm-none-eabi-size  EXTI_ToFlash.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7544	      0	   1628	   9172	   23d4	EXTI_ToFlash.elf
+Finished building: default.size.stdout
+ 
+
+10:23:01 Build Finished. 0 errors, 0 warnings. (took 514ms)
+

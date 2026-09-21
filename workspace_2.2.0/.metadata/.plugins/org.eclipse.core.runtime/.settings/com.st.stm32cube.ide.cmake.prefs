@@ -1,0 +1,17 @@
+STM32C5_IDE_BlinkLED\:debug_GCC_NUCLEO-C562RE/build=build\\debug_GCC_NUCLEO-C562RE
+STM32C5_IDE_BlinkLED\:debug_GCC_NUCLEO-C562RE/cmake_build_type=debug_GCC_NUCLEO-C562RE
+STM32C5_IDE_BlinkLED\:debug_GCC_NUCLEO-C562RE/cmake_export_compile_commands=
+STM32C5_IDE_BlinkLED\:debug_GCC_NUCLEO-C562RE/cmake_preset=debug_GCC_NUCLEO-C562RE
+STM32C5_IDE_BlinkLED\:debug_GCC_NUCLEO-C562RE/cmake_toolchain_file=
+STM32C5_IDE_BlinkLED\:debug_GCC_NUCLEO-C562RE/generator=Ninja
+STM32C5_IDE_BlinkLED\:debug_GCC_NUCLEO-C562RE/misc_command=
+STM32C5_IDE_BlinkLED\:debug_GCC_NUCLEO-C562RE/src=C\:\\Users\\aliagavi\\STM32CubeIDE\\workspace_2.2.0\\STM32C5_IDE_BlinkLED\\STM32C5_CubeIDE_BlinkLED_cmake
+STM32C_SWV\:debug_GCC_NUCLEO-C562RE/build=build\\debug_GCC_NUCLEO-C562RE
+STM32C_SWV\:debug_GCC_NUCLEO-C562RE/cmake_build_type=debug_GCC_NUCLEO-C562RE
+STM32C_SWV\:debug_GCC_NUCLEO-C562RE/cmake_export_compile_commands=
+STM32C_SWV\:debug_GCC_NUCLEO-C562RE/cmake_preset=debug_GCC_NUCLEO-C562RE
+STM32C_SWV\:debug_GCC_NUCLEO-C562RE/cmake_toolchain_file=
+STM32C_SWV\:debug_GCC_NUCLEO-C562RE/generator=Ninja
+STM32C_SWV\:debug_GCC_NUCLEO-C562RE/misc_command=
+STM32C_SWV\:debug_GCC_NUCLEO-C562RE/src=C\:\\Users\\aliagavi\\STM32CubeVSCode\\Demos\\STM32C5_FreeRTOS_SWV_Demo\\STM32C5_FreeRTOS_SWV_Demo_cmake
+eclipse.preferences.version=1

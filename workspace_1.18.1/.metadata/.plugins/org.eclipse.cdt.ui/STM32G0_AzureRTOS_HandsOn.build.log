@@ -1,0 +1,10 @@
+08:44:43 **** Incremental Build of configuration Debug for project STM32G0_AzureRTOS_HandsOn ****
+make -j8 all 
+arm-none-eabi-size  STM32G0_AzureRTOS_HandsOn.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24600	     16	  70912	  95528	  17528	STM32G0_AzureRTOS_HandsOn.elf
+Finished building: default.size.stdout
+ 
+
+08:44:46 Build Finished. 0 errors, 0 warnings. (took 2s.920ms)
+

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\aliagavi\Downloads\XSPI_PSRAM_MemoryMapped_DMA2D_Test (1)"/>
+			<item value="C:\Users\aliagavi\OneDrive - STMicroelectronics\Desktop\STM32WBA55CG_USART_GPDMA_Wakeup_Example"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+		<section name="ExternalProjectImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="706"/>
+			<item key="DIALOG_Y_ORIGIN" value="187"/>
+			<item key="DIALOG_WIDTH" value="525"/>
+			<item key="DIALOG_HEIGHT" value="710"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_H7_V1.12.1\Projects\NUCLEO-H745ZI-Q\Templates\BootCM4_CM7\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\Downloads\XSPI_PSRAM_MemoryMapped_DMA2D_Test (1)"/>
+			<item value="C:\Users\aliagavi\Downloads\XSPI_PSRAM_MemoryMapped_DMA2D_Test"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.19.0\I2C\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\STM32G070_ToggleLED"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.1\STM32H747IDK_FS_SD_v1"/>
+			<item value="C:\Users\aliagavi\OneDrive - STMicroelectronics\Desktop\STM32WBA55CG_USART_GPDMA_Wakeup_Example\STM32WBA55CG_USART_GPDMA_Wakeup_Example\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.19.0\STM32WBA55CG_USART_GPDMA_WakeupFromStop1_2\STM32WBA55CG_USART_GPDMA_WakeupFromStop1_2"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.19.0\STM32WBA55CG_USART_GPDMA_WakeupFromStop1_2\STM32WBA55CG_USART_GPDMA_WakeupFromStop1_2\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.19.0\STM32WBA55CG_USART_GPDMA_WakeupFromStop1_2 (2)\STM32WBA55CG_USART_GPDMA_WakeupFromStop1_2\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.19.0\STM32WBA55CG_USART_GPDMA_WakeupFromStop1_2\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\STM32WBA55CG_USART_WakeUpFromStop\PWR_STOP1\PWR_STOP1\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Example\STM32WBA55CG_USART_WakeUpFromStop"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_WBA_V1.7.0\Projects\NUCLEO-WBA55CG\Examples\PWR\PWR_STOP1\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_1.19.0\N6DK_COREFoundation_Blinky_IT"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="236"/>
+			<item key="DIALOG_Y_ORIGIN" value="29"/>
+			<item key="DIALOG_WIDTH" value="885"/>
+			<item key="DIALOG_HEIGHT" value="629"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+</section>

@@ -1,0 +1,2 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509_pkcs1_rsa_private_key_parse.c:79:6:_nx_secure_x509_pkcs1_rsa_private_key_parse	80	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_x509_pkcs1_rsa_private_key_parse.c:352:13:_nx_secure_asn1_parse_unsigned_integer	32	static

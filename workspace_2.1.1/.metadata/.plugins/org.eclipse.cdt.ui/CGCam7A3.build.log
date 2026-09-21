@@ -1,0 +1,10 @@
+12:21:30 **** Incremental Build of configuration Debug for project CGCam7A3 ****
+make -j8 all 
+arm-none-eabi-size  CGCam7A3.elf 
+   text	   data	    bss	    dec	    hex	filename
+  56072	    472	  18744	  75288	  12618	CGCam7A3.elf
+Finished building: default.size.stdout
+ 
+
+12:21:33 Build Finished. 0 errors, 0 warnings. (took 3s.297ms)
+

@@ -1,0 +1,2 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_process_record.c:107:6:_nx_secure_tls_process_record	88	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/nx_secure/src/nx_secure_tls_process_record.c:638:13:_nx_secure_tls_packet_trim	32	static

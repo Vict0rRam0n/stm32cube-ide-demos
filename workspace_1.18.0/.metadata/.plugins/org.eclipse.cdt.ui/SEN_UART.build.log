@@ -1,0 +1,10 @@
+10:23:11 **** Build of configuration Debug for project SEN_UART ****
+make -j8 all 
+arm-none-eabi-size  SEN_UART.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16960	     92	   2052	  19104	   4aa0	SEN_UART.elf
+Finished building: default.size.stdout
+ 
+
+10:23:11 Build Finished. 0 errors, 0 warnings. (took 601ms)
+

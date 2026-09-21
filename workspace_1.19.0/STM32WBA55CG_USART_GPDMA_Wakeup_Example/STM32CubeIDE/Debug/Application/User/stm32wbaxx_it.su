@@ -1,0 +1,11 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:70:6:NMI_Handler	4	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:85:6:HardFault_Handler	4	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:100:6:MemManage_Handler	4	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:115:6:BusFault_Handler	4	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:130:6:UsageFault_Handler	4	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:145:6:SVC_Handler	4	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:158:6:PendSV_Handler	4	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:171:6:SysTick_Handler	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:192:6:EXTI13_IRQHandler	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:206:6:GPDMA1_Channel2_IRQHandler	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/STM32WBA55CG_USART_GPDMA_Wakeup_Example/Src/stm32wbaxx_it.c:220:6:USART1_IRQHandler	8	static

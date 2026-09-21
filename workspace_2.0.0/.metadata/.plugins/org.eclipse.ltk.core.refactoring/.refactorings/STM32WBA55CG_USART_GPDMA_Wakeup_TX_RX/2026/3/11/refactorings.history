@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;STM32WBA55CG_USART_GPDMA_Wakeup_TX_RX/Test&apos; to &apos;Previous_Demo&apos;" description="Rename resource &apos;Test&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Test" name="Previous_Demo" stamp="1773066216363" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;STM32WBA55CG_USART_GPDMA_Wakeup_TX_RX/Previous_Demo&apos; to &apos;previous_demo&apos;" description="Rename resource &apos;Previous_Demo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Previous_Demo" name="previous_demo" stamp="1773066231692" updateReferences="true"/>
+</session>

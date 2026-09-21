@@ -1,0 +1,11 @@
+../../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h:500:22:LL_DMA_EnableChannel	24	static
+../../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h:944:22:LL_DMA_SetDataLength	32	static
+../../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h:997:22:LL_DMA_ConfigAddresses	32	static
+../../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h:2065:22:LL_DMA_EnableIT_TC	24	static
+../../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_dma.h:2105:22:LL_DMA_EnableIT_TE	24	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DMA_FLASHToRAM/Src/main.c:87:5:main	24	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DMA_FLASHToRAM/Src/main.c:187:6:SystemClock_Config	96	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DMA_FLASHToRAM/Src/main.c:234:13:MX_DMA_Init	16	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DMA_FLASHToRAM/Src/main.c:270:6:TransferComplete	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DMA_FLASHToRAM/Src/main.c:281:6:TransferError	8	static
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/DMA_FLASHToRAM/Src/main.c:292:6:Error_Handler	8	static

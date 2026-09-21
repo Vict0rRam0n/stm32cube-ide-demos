@@ -1,0 +1,17 @@
+13:56:09 **** Incremental Build of configuration Debug for project FLASH_EDATA_EraseProgram ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32Cube/Example/FLASH_EDATA_EraseProgram/Src/main.c" -mcpu=cortex-m33 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32H563xx -c -I../../Inc -I../../Drivers/STM32H5xx_HAL_Driver/Inc -I../../Drivers/STM32H5xx_HAL_Driver/Inc/Legacy -I../../Drivers/CMSIS/Device/ST/STM32H5xx/Include -I../../Drivers/CMSIS/Include -I../../Drivers/BSP/STM32H5xx_Nucleo -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/main.d" -MT"Application/User/main.o" --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -o "Application/User/main.o"
+arm-none-eabi-gcc -o "FLASH_EDATA_EraseProgram.elf" @"objects.list"   -mcpu=cortex-m33 -T"C:\Users\aliagavi\STM32Cube\Example\FLASH_EDATA_EraseProgram\STM32CubeIDE\STM32H563ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="FLASH_EDATA_EraseProgram.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv5-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: FLASH_EDATA_EraseProgram.elf
+ 
+arm-none-eabi-size  FLASH_EDATA_EraseProgram.elf 
+arm-none-eabi-objdump -h -S FLASH_EDATA_EraseProgram.elf  > "FLASH_EDATA_EraseProgram.list"
+   text	   data	    bss	    dec	    hex	filename
+  12272	     60	   1688	  14020	   36c4	FLASH_EDATA_EraseProgram.elf
+Finished building: default.size.stdout
+ 
+Finished building: FLASH_EDATA_EraseProgram.list
+ 
+
+13:56:13 Build Finished. 0 errors, 0 warnings. (took 3s.232ms)
+

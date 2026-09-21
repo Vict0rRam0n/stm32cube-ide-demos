@@ -1,0 +1,17 @@
+10:23:20 **** Build of configuration Debug for project TIM_PWM_DMA ****
+make -j8 all 
+arm-none-eabi-gcc "C:/Users/aliagavi/STM32CubeIDE/workspace_1.18.0/TIM_PWM_DMA/Core/Src/main.c" -mcpu=cortex-m0plus -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32G0B1xx -c -I../../Core/Inc -I../../Drivers/STM32G0xx_HAL_Driver/Inc -I../../Drivers/STM32G0xx_HAL_Driver/Inc/Legacy -I../../Drivers/CMSIS/Device/ST/STM32G0xx/Include -I../../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Application/User/Core/main.d" -MT"Application/User/Core/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Application/User/Core/main.o"
+arm-none-eabi-gcc -o "TIM_PWM_DMA.elf" @"objects.list"   -mcpu=cortex-m0plus -T"C:\Users\aliagavi\STM32CubeIDE\workspace_1.18.0\TIM_PWM_DMA\STM32CubeIDE\STM32G0B1RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="TIM_PWM_DMA.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: TIM_PWM_DMA.elf
+ 
+arm-none-eabi-size  TIM_PWM_DMA.elf 
+arm-none-eabi-objdump -h -S TIM_PWM_DMA.elf  > "TIM_PWM_DMA.list"
+   text	   data	    bss	    dec	    hex	filename
+  13428	     12	   1740	  15180	   3b4c	TIM_PWM_DMA.elf
+Finished building: default.size.stdout
+ 
+Finished building: TIM_PWM_DMA.list
+ 
+
+10:23:22 Build Finished. 0 errors, 0 warnings. (took 2s.148ms)
+

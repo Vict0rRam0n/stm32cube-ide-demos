@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item key="WizardProjectsImportPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
+		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\aliagavi\Downloads\stm32h7-openbl-apps"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+		<section name="ExternalProjectImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="706"/>
+			<item key="DIALOG_Y_ORIGIN" value="187"/>
+			<item key="DIALOG_WIDTH" value="525"/>
+			<item key="DIALOG_HEIGHT" value="710"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_H5_V1.6.0\Projects\NUCLEO-H563ZI\Examples\DMA\DMA_LinkedList\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_H5_V1.6.0\Projects\NUCLEO-H563ZI\Examples\DMA\DMA_LinkedList"/>
+			<item value="C:\Users\aliagavi\Downloads\SPI1+GPDMACh0Ch1Tim15\SPI1+GPDMACh0Ch1Tim15\SPI1+GPDMACh0Ch1"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32WBA55CG_USART_GPDMA_Wakeup_RX_TX"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32WBA55CG_USART_GPDMA_Wakeup_RX_TX\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_WBA_V1.8.0\Projects\NUCLEO-WBA55CG\Examples\LPTIM\LPTIM_PulseCounter\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32Cube\Repository\STM32Cube_FW_WBA_V1.8.0\Projects\NUCLEO-WBA55CG\Examples\LPTIM\LPTIM_PulseCounter\STM32CubeIDE\Application"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32WBA55CG_USART_GPDMA_Wakeup_TX_RX\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32WBA55CG_USART_GPDMA_Wakeup_TX_RX"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32N6-GettingStarted-ObjectDetection\Application\STM32N6570-DK\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32N6-GettingStarted-ObjectDetection\Application\STM32N6570-DK"/>
+			<item value="C:\Users\aliagavi\Downloads\STM32H747\STM32H7"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32H747_Bootloader\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32H747_Bootloader"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32H747_Example\Bootloader"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\Application"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\Bootloader\CM7\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\Bootloader"/>
+			<item value="C:\Users\aliagavi\Downloads\stm32h7-openbl-apps\stm32h7-openbl-apps\Projects\STM32H745I-DISCO\Applications\OpenBootloader"/>
+			<item value="C:\Users\aliagavi\Downloads\stm32h7-openbl-apps\stm32h7-openbl-apps\Projects\STM32H745I-DISCO\Applications\OpenBootloader\STM32CubeIDE"/>
+			<item value="C:\Users\aliagavi\Downloads\stm32h7-openbl-apps\stm32h7-openbl-apps\Projects\STM32H745I-DISCO\Applications\OpenBootloader\STM32CubeIDE\Application"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32H747_Example"/>
+			<item value="C:\Users\aliagavi\STM32CubeIDE\workspace_2.0.0\STM32H747_Example\CM7"/>
+			<item value="C:\Users\aliagavi\Downloads\Project_files(1)\Project_files"/>
+		</list>
+		<section name="SmartImportWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="366"/>
+			<item key="DIALOG_Y_ORIGIN" value="15"/>
+			<item key="DIALOG_WIDTH" value="885"/>
+			<item key="DIALOG_HEIGHT" value="629"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="SaveAsDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="614"/>
+		<item key="DIALOG_Y_ORIGIN" value="313"/>
+		<item key="DIALOG_WIDTH" value="525"/>
+		<item key="DIALOG_HEIGHT" value="580"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

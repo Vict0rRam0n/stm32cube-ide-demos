@@ -1,0 +1,10 @@
+11:27:47 **** Incremental Build of configuration Debug for project SPI1+GPDMACh0Ch1 ****
+make -j8 all 
+arm-none-eabi-size  SPI1+GPDMACh0Ch1.elf 
+   text	   data	    bss	    dec	    hex	filename
+  47240	     40	   2496	  49776	   c270	SPI1+GPDMACh0Ch1.elf
+Finished building: default.size.stdout
+ 
+
+11:27:48 Build Finished. 0 errors, 0 warnings. (took 485ms)
+

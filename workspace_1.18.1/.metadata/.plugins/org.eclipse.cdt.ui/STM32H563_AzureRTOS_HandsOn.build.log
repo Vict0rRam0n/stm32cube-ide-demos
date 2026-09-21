@@ -1,0 +1,10 @@
+08:44:47 **** Incremental Build of configuration Debug for project STM32H563_AzureRTOS_HandsOn ****
+make -j8 all 
+arm-none-eabi-size  STM32H563_AzureRTOS_HandsOn.elf 
+   text	   data	    bss	    dec	    hex	filename
+  29168	    132	   2092	  31392	   7aa0	STM32H563_AzureRTOS_HandsOn.elf
+Finished building: default.size.stdout
+ 
+
+08:44:47 Build Finished. 0 errors, 0 warnings. (took 685ms)
+

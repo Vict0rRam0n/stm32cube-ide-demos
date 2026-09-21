@@ -1,0 +1,3 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_gpio.c:293:16:ADV_LPBAM_GPIO_WritePin_SetFullQ	4
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_gpio.c:354:16:ADV_LPBAM_GPIO_WritePinSequence_SetFullQ	4
+C:/Users/aliagavi/STM32CubeIDE/workspace_1.19.0/NUCLEO_U575ZI_LPBAM_TXApp/Utilities/lpbam/stm32_adv_lpbam_gpio.c:415:16:ADV_LPBAM_GPIO_ReadPinSequence_SetFullQ	4

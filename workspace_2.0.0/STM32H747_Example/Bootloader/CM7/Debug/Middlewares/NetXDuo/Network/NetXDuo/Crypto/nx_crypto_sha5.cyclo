@@ -1,0 +1,7 @@
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:118:22:_nx_crypto_sha512_initialize	8
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:237:21:_nx_crypto_sha512_update	8
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:365:21:_nx_crypto_sha512_digest_calculate	11
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:501:21:_nx_crypto_sha512_process_buffer	4
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:623:22:_nx_crypto_method_sha512_init	5
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:695:22:_nx_crypto_method_sha512_cleanup	1
+C:/Users/aliagavi/STM32CubeIDE/workspace_2.0.0/STM32H747_Example/Bootloader/Middlewares/ST/netxduo/crypto_libraries/src/nx_crypto_sha5.c:770:22:_nx_crypto_method_sha512_operation	34

@@ -1,0 +1,4 @@
+11:31:27 **** Build of configuration Debug for project x-cube-n6-ai-h264-usb-uvc ****
+make -j8 all 
+make: *** No rule to make target 'C:/Users/aliagavi/STM32N6-FaceRecognition/Src/app.c', needed by 'Src/app.o'.  Stop.
+"make -j8 all" terminated with exit code 2. Build might be incomplete.

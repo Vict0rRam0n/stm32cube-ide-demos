@@ -1,0 +1,10 @@
+09:59:58 **** Incremental Build of configuration Debug for project run-1_Appli ****
+make -j8 all 
+arm-none-eabi-size  run-1_Appli.elf 
+   text	   data	    bss	    dec	    hex	filename
+3869680	    656	 254352	4124688	 3ef010	run-1_Appli.elf
+Finished building: default.size.stdout
+ 
+
+10:00:01 Build Finished. 0 errors, 0 warnings. (took 2s.853ms)
+

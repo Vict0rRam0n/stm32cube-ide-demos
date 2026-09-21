@@ -1,0 +1,10 @@
+10:23:17 **** Incremental Build of configuration FLASH_BANK2 for project STM32U535_DualBank ****
+make -j8 all 
+arm-none-eabi-size  STM32U535_DualBank.elf 
+   text	   data	    bss	    dec	    hex	filename
+  34255	    136	   2112	  36503	   8e97	STM32U535_DualBank.elf
+Finished building: default.size.stdout
+ 
+
+10:23:17 Build Finished. 0 errors, 0 warnings. (took 626ms)
+
